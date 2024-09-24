@@ -1,0 +1,2001 @@
+id,full_name,age,gender,model,color,performance,km,condition,price
+1,,,,,,,,,
+2,John Taylor,40,Male,Quest,Red,323,481697,new,16185.5
+3,Alex Jones,33,Non-binary,Gloria,Orange,103,583179,very good,7955.71
+4,Katie Moore,62,Male,Juke,Gray,135,806475,bad,11886.01
+5,David Smith,30,Male,Avenir,Silver,37,133866,bad,9385.94
+6,John Brown,44,Genderfluid,Juke,Blue,270,641581,old,43179.52
+7,David Smith,51,Genderfluid,Gloria,Black,321,768118,new,16999.23
+8,Laura Moore,31,Female,March / Micra,White,116,251925,very bad,17143.74
+9,Chris Johnson,38,Genderfluid,Juke,Green,118,108112,very bad,42295.11
+10,Mike Johnson,23,Polygender,Altima,Silver,303,102285,very bad,46236.04
+11,Chris Taylor,42,Female,Avenir,Silver,340,173141,very good,31721.75
+12,Sophie Jones,43,Male,Pathfinder,Silver,128,490256,bad,32005.25
+13,Laura Smith,39,Genderfluid,Maxima,Red,270,845262,old,5978.31
+14,Laura Jones,69,Polygender,Leaf,Blue,175,739960,new,6653.42
+15,Katie Johnson,23,Polygender,Avenir,Orange,52,445777,very bad,38574.03
+16,,,,,,,,,
+17,Emily Moore,33,Polygender,Maxima,Silver,26,243727,very bad,14622.78
+18,Emily Brown,48,Female,Quest,Red,190,299030,bad,33944.31
+19,,,,,,,,,
+20,Emily Wilson,62,Polygender,Leaf,Green,362,126705,new,19095.51
+21,Mike Smith,55,Polygender,Pathfinder,Red,189,961248,old,43588.66
+22,,,,,,,,,
+23,,,,,,,,,
+24,Mike Jones,26,Polygender,Pathfinder,Blue,59,939398,very bad,8988.42
+25,Katie Johnson,21,Non-binary,Juke,Silver,18,697432,very good,30624.52
+26,Emily Jones,39,Male,Quest,White,43,180613,old,37431.68
+27,Alex Miller,33,Non-binary,Gloria,Black,223,574157,very bad,32827.6
+28,John Johnson,43,Non-binary,Quest,Red,331,517470,bad,27249.41
+29,,,,,,,,,
+30,Emily Miller,38,Genderfluid,Quest,Blue,34,849714,very good,37449.79
+31,Chris Smith,23,Polygender,Quest,White,275,800767,very good,21572.27
+32,David Davis,22,Genderfluid,Gloria,Blue,325,303382,bad,17193.51
+33,John Davis,58,Male,Juke,Orange,128,435195,very good,23393.25
+34,Emily Williams,63,Male,March / Micra,Orange,55,350547,very bad,37429.66
+35,,,,,,,,,
+36,,,,,,,,,
+37,Mike Johnson,37,Polygender,Maxima,Silver,386,529949,very good,23112.83
+38,,,,,,,,,
+39,,,,,,,,,
+40,Chris Williams,48,Polygender,Pathfinder,Gray,348,788678,old,44999.2
+41,Alex Moore,45,Female,March / Micra,Green,262,585669,very bad,14904.07
+42,Jane Smith,33,Polygender,Gloria,Yellow,146,599037,old,36268.45
+43,Mike Brown,40,Genderfluid,Maxima,Red,67,735772,very good,11962.74
+44,Jane Smith,29,Male,Pathfinder,Green,135,179732,very good,25253.18
+45,Alex Johnson,39,Polygender,Leaf,Yellow,58,707646,new,38160.13
+46,,,,,,,,,
+47,Jane Jones,33,Male,Avenir,Yellow,52,906778,new,40983.98
+48,Alex Smith,18,Polygender,Rnessa,White,62,286696,very good,42600.62
+49,Laura Smith,28,Non-binary,Maxima,Gray,140,704559,very bad,18465.95
+50,Laura Brown,18,Polygender,Avenir,White,208,535004,old,6352.18
+51,Emily Brown,50,Genderfluid,Leaf,Yellow,84,36313,very good,18320.56
+52,Katie Johnson,44,Genderfluid,Avenir,Yellow,20,117894,new,33266.11
+53,David Moore,62,Polygender,Rnessa,Silver,156,352129,old,16532.46
+54,John Wilson,44,Female,Quest,Black,196,660449,new,36216.85
+55,Sophie Moore,28,Non-binary,Gloria,Black,292,523335,old,22402.43
+56,John Moore,18,Polygender,March / Micra,Black,274,701205,very good,13369.27
+57,Jane Johnson,59,Polygender,Quest,Yellow,61,68513,very good,31481.32
+58,Sophie Moore,19,Polygender,Maxima,Purple,192,469300,bad,26805.4
+59,Chris Smith,56,Female,Quest,White,210,706917,bad,22011.84
+60,Laura Smith,18,Male,Leaf,Black,367,152491,new,19768.11
+61,Chris Wilson,60,Non-binary,March / Micra,Silver,346,394841,very good,30062.36
+62,Mike Brown,35,Genderfluid,Pathfinder,Blue,172,437676,very bad,35136.03
+63,David Brown,50,Genderfluid,Maxima,Yellow,270,201920,bad,19943.79
+64,Katie Johnson,24,Female,Quest,Yellow,356,526510,very bad,25539.15
+65,Chris Davis,42,Female,Juke,Black,395,370130,very good,5567.19
+66,Alex Brown,37,Non-binary,Altima,Black,86,482931,old,38697.37
+67,Alex Williams,30,Genderfluid,Pathfinder,Green,87,957495,new,39346.87
+68,Chris Williams,57,Genderfluid,Avenir,Black,238,826531,very good,17248.79
+69,Chris Wilson,63,Male,Gloria,Blue,172,806335,bad,6584.76
+70,Laura Taylor,63,Polygender,Leaf,Blue,243,314292,very good,44525.46
+71,,,,,,,,,
+72,Mike Taylor,56,Polygender,Pathfinder,Gray,18,612088,old,19591.23
+73,Jane Johnson,59,Non-binary,Avenir,Black,355,533446,very good,20744.26
+74,David Johnson,24,Polygender,Rnessa,Yellow,91,372274,bad,27768.51
+75,Mike Moore,67,Genderfluid,Maxima,White,93,190535,very bad,9330.8
+76,John Smith,63,Male,Pathfinder,Yellow,230,336578,bad,19040.47
+77,Chris Taylor,21,Female,Altima,Black,343,413993,very bad,25050.9
+78,David Smith,53,Male,Gloria,Silver,66,271012,very good,5114.7
+79,,,,,,,,,
+80,Laura Johnson,24,Male,Avenir,Yellow,181,679769,very bad,5653.06
+81,Jane Johnson,52,Male,Altima,Silver,128,920649,old,33906.8
+82,,,,,,,,,
+83,Katie Jones,44,Non-binary,Leaf,Red,273,165880,old,29111.79
+84,Sophie Brown,31,Genderfluid,Maxima,Blue,224,51389,new,38922
+85,David Brown,62,Genderfluid,Quest,Black,301,751842,very good,47282.28
+86,Sophie Miller,58,Male,Altima,Yellow,336,203511,bad,22354.29
+87,Sophie Brown,49,Female,Maxima,Purple,268,511034,very bad,18481.11
+88,Sophie Moore,63,Male,Maxima,White,218,909119,very bad,6065
+89,David Jones,46,Polygender,Juke,Black,182,910897,bad,8078.14
+90,Mike Williams,68,Male,Altima,Red,47,130931,new,20691.27
+91,Laura Williams,51,Polygender,Quest,Green,387,997190,bad,19375.66
+92,David Wilson,41,Male,Juke,Blue,252,924275,very good,45104.75
+93,David Smith,65,Male,Maxima,Purple,268,434501,old,34527.41
+94,Sophie Williams,51,Male,Altima,Red,177,46272,bad,18635.8
+95,Sophie Miller,62,Non-binary,Juke,Yellow,87,982516,very bad,24646.76
+96,,,,,,,,,
+97,Alex Smith,54,Genderfluid,Avenir,White,114,689897,old,31187.86
+98,Katie Williams,60,Male,Altima,Black,194,509566,new,12557.77
+99,Katie Miller,48,Non-binary,Altima,Purple,351,598254,very bad,49373.03
+100,,,,,,,,,
+101,Sophie Johnson,49,Male,Leaf,Purple,155,941814,very good,13347.49
+102,Katie Brown,28,Polygender,March / Micra,Red,50,354344,new,26449.37
+103,,,,,,,,,
+104,Sophie Johnson,28,Polygender,March / Micra,Green,356,110560,bad,7363.98
+105,Emily Davis,64,Male,Maxima,Black,188,766194,very bad,24484.16
+106,Mike Davis,46,Male,Maxima,Green,149,65201,bad,24692.52
+107,Emily Miller,69,Male,Maxima,Blue,154,663428,new,27447.39
+108,Emily Davis,38,Genderfluid,March / Micra,Black,119,688873,bad,10787.85
+109,Jane Johnson,40,Genderfluid,Altima,Purple,124,423408,bad,11463.22
+110,Mike Jones,62,Polygender,Altima,Purple,295,774910,new,37064
+111,Alex Davis,51,Male,Gloria,Orange,330,152371,bad,47640.64
+112,David Miller,54,Non-binary,March / Micra,White,238,205352,very bad,10774.56
+113,John Davis,34,Genderfluid,Rnessa,White,212,135248,new,5837.29
+114,John Jones,19,Non-binary,Maxima,Orange,293,592284,bad,5011.98
+115,John Williams,37,Male,Quest,Silver,155,56601,very good,34949.03
+116,David Moore,61,Female,Pathfinder,Silver,370,293291,very bad,19428.93
+117,Jane Jones,28,Non-binary,Quest,Blue,71,650882,very bad,22109.07
+118,Sophie Brown,65,Non-binary,Leaf,Orange,119,633437,very bad,45414.02
+119,David Miller,52,Male,Quest,White,128,192048,new,30448.87
+120,David Wilson,33,Genderfluid,Gloria,Yellow,340,951738,very good,45642.22
+121,John Moore,30,Polygender,March / Micra,Black,201,744107,very good,48716.54
+122,John Moore,43,Non-binary,Rnessa,Silver,43,380755,bad,8073.12
+123,Laura Jones,26,Female,Juke,Yellow,17,470352,old,35363.32
+124,John Wilson,19,Female,Rnessa,Red,284,535266,very bad,46549.07
+125,John Smith,61,Non-binary,Gloria,Gray,292,925196,bad,30335.45
+126,,,,,,,,,
+127,Mike Miller,51,Genderfluid,Altima,Gray,206,584792,bad,5725.01
+128,David Taylor,18,Male,Leaf,Yellow,92,605704,bad,10637.7
+129,Alex Moore,48,Male,Avenir,Red,309,995475,new,22633.56
+130,David Wilson,48,Female,Pathfinder,Gray,214,186554,very bad,16331.35
+131,David Wilson,24,Polygender,Altima,Gray,186,606994,new,24144.78
+132,Jane Smith,20,Polygender,March / Micra,Blue,367,632323,very good,12699.45
+133,David Williams,58,Polygender,Pathfinder,White,69,937431,very bad,35389.01
+134,Katie Jones,58,Polygender,Maxima,Black,215,193904,old,32457.86
+135,Sophie Davis,42,Non-binary,Gloria,Silver,176,172027,very bad,8240.91
+136,Jane Johnson,59,Male,Altima,White,279,970839,new,9956.92
+137,Laura Johnson,32,Genderfluid,Quest,Gray,304,805782,old,28369.27
+138,Alex Davis,56,Polygender,Pathfinder,Green,42,352209,very good,17287.53
+139,,,,,,,,,
+140,Mike Wilson,27,Non-binary,Altima,Red,112,547917,bad,37704.9
+141,Alex Johnson,51,Genderfluid,Rnessa,Gray,207,629725,old,7974.1
+142,Laura Smith,62,Male,Altima,Black,96,310735,bad,22256.16
+143,Katie Brown,59,Polygender,Juke,Purple,149,488393,very bad,27374.74
+144,Emily Taylor,62,Polygender,Avenir,Black,387,204864,very bad,12689.53
+145,John Jones,55,Male,Avenir,Gray,22,301436,old,31834.22
+146,Katie Taylor,35,Female,Gloria,Yellow,341,581465,bad,24289.1
+147,Jane Miller,36,Female,Juke,Red,62,680602,new,43281.91
+148,,,,,,,,,
+149,Sophie Smith,52,Polygender,Pathfinder,Green,266,835917,very good,10515.1
+150,Sophie Miller,25,Polygender,Gloria,Silver,117,556079,new,32504.78
+151,Mike Miller,34,Polygender,March / Micra,Black,95,973531,very bad,25519.2
+152,John Brown,57,Non-binary,Altima,Yellow,366,501232,very good,46545.1
+153,Alex Miller,53,Male,Avenir,Blue,61,187934,very good,14764.28
+154,John Moore,51,Genderfluid,Avenir,Black,397,382198,very bad,49909.38
+155,Sophie Williams,63,Non-binary,Altima,Yellow,276,478286,bad,19848.77
+156,Laura Brown,37,Non-binary,Juke,Blue,205,745496,very bad,20955.06
+157,Jane Wilson,38,Genderfluid,Avenir,Black,115,451885,very bad,40142.2
+158,Jane Brown,22,Non-binary,Pathfinder,Green,239,836778,old,35466.08
+159,John Miller,54,Polygender,Quest,Black,113,402786,very bad,30280.91
+160,Chris Johnson,29,Male,Rnessa,Purple,222,603994,very bad,7399.07
+161,David Jones,41,Polygender,Leaf,Blue,362,22672,new,27264.08
+162,Sophie Wilson,62,Genderfluid,Quest,Red,114,718360,new,35583.29
+163,Katie Williams,30,Genderfluid,Leaf,Orange,235,477680,bad,44444.27
+164,Sophie Taylor,55,Polygender,Avenir,White,223,28389,very good,37380.08
+165,John Moore,19,Non-binary,Maxima,Red,148,113873,very good,49664.65
+166,Sophie Taylor,56,Polygender,Gloria,Yellow,356,149187,bad,24805.02
+167,Sophie Davis,24,Male,Avenir,Gray,100,359109,bad,39030.68
+168,Alex Davis,53,Non-binary,Leaf,Blue,75,902660,old,35674.47
+169,Laura Brown,27,Polygender,Leaf,Gray,110,823250,very bad,8940.71
+170,Laura Wilson,48,Non-binary,Pathfinder,Orange,27,607928,bad,29013.37
+171,Katie Miller,64,Female,March / Micra,White,152,911817,old,14142.92
+172,Chris Moore,63,Female,Altima,Silver,41,97537,new,28070.16
+173,Mike Miller,67,Genderfluid,March / Micra,Gray,138,666931,old,30599.85
+174,David Moore,34,Male,Quest,Silver,292,598659,bad,37098.69
+175,Jane Taylor,38,Polygender,Rnessa,White,71,938196,very good,25691.46
+176,Jane Smith,42,Polygender,March / Micra,Black,23,907426,new,5472.86
+177,Sophie Wilson,39,Male,Rnessa,Black,149,931207,very bad,5063.99
+178,Mike Johnson,41,Male,Juke,Purple,190,534301,very bad,5215.26
+179,David Johnson,34,Non-binary,Altima,Purple,323,642381,old,11242.47
+180,Alex Smith,21,Polygender,Altima,Blue,233,446241,new,31938.37
+181,Emily Williams,28,Non-binary,Altima,Green,305,640958,bad,32888.86
+182,Chris Wilson,22,Male,Juke,Green,246,155020,new,5314.18
+183,Chris Wilson,33,Female,Avenir,Purple,256,678127,old,43517.26
+184,Katie Smith,45,Genderfluid,Altima,Red,171,143437,very good,27207.3
+185,Emily Jones,40,Genderfluid,Quest,Orange,355,24291,very bad,38274.51
+186,Katie Williams,48,Male,Avenir,Yellow,375,652914,new,10744.12
+187,Jane Wilson,19,Polygender,Juke,Gray,55,815329,bad,20086.08
+188,Emily Johnson,47,Polygender,Maxima,Orange,96,28379,new,24924.41
+189,David Smith,33,Non-binary,Gloria,Black,355,940851,bad,36029.17
+190,Alex Smith,63,Male,Pathfinder,Gray,314,484321,old,37146.55
+191,Mike Smith,63,Female,Juke,Red,282,676145,very bad,7187.14
+192,Sophie Jones,24,Genderfluid,Leaf,Yellow,203,258709,very good,48877.51
+193,Katie Davis,43,Genderfluid,Rnessa,Red,297,958876,new,46782.97
+194,,,,,,,,,
+195,Chris Wilson,34,Male,Leaf,Purple,102,432662,very bad,26710.2
+196,,,,,,,,,
+197,Katie Wilson,19,Female,Altima,Orange,300,627490,very good,39318.46
+198,,,,,,,,,
+199,Sophie Williams,66,Polygender,March / Micra,Yellow,357,981461,new,21498.38
+200,Alex Smith,45,Female,Rnessa,Black,125,427357,very good,41821.89
+201,David Davis,50,Male,Avenir,Silver,321,843914,old,25135.57
+202,Mike Smith,54,Non-binary,Altima,Blue,94,172996,very good,30547.46
+203,,,,,,,,,
+204,Emily Moore,54,Non-binary,Quest,Black,361,247626,old,18765.26
+205,Katie Miller,60,Genderfluid,Juke,Purple,306,816609,very good,31280.77
+206,Sophie Smith,33,Male,Maxima,Black,19,398355,very bad,31852.83
+207,Chris Moore,44,Male,Rnessa,Black,62,878907,very bad,6192.3
+208,Katie Johnson,49,Genderfluid,Leaf,Black,87,155738,new,21795.15
+209,Alex Moore,44,Polygender,Gloria,Green,93,833251,very bad,45112.09
+210,Emily Davis,42,Male,Rnessa,Gray,228,824775,very bad,37972.61
+211,Sophie Jones,65,Male,Rnessa,Silver,238,572336,very bad,39137.21
+212,Alex Wilson,21,Polygender,Maxima,Silver,136,5486,bad,24548.22
+213,John Moore,61,Polygender,Altima,Yellow,335,131355,bad,28614.76
+214,Laura Moore,57,Genderfluid,Leaf,White,154,854046,new,19244.54
+215,Mike Jones,18,Male,Maxima,Orange,179,834978,bad,44498.73
+216,Alex Miller,57,Male,Maxima,Yellow,198,389587,old,35211.35
+217,,,,,,,,,
+218,John Taylor,32,Male,Altima,Silver,18,44812,bad,13065.08
+219,Jane Davis,35,Genderfluid,Rnessa,White,104,450217,new,41552.09
+220,Mike Wilson,62,Female,Juke,Black,99,733596,very good,37007.54
+221,John Williams,49,Non-binary,Altima,Silver,177,355265,very good,18180.62
+222,Laura Davis,55,Female,Leaf,Purple,294,657977,old,40005.06
+223,Chris Taylor,59,Polygender,Juke,Orange,214,765574,old,17819.56
+224,Jane Wilson,42,Non-binary,Rnessa,Orange,32,705395,new,36298.62
+225,Katie Johnson,43,Polygender,Pathfinder,Orange,395,961505,very good,24640.45
+226,Mike Miller,58,Polygender,Avenir,White,244,927001,new,41291.68
+227,Sophie Johnson,55,Non-binary,Pathfinder,Red,57,69928,very bad,7294.58
+228,Emily Johnson,20,Non-binary,Rnessa,Purple,320,180847,bad,45898.4
+229,John Taylor,37,Polygender,Gloria,Red,171,82640,old,12062.05
+230,Laura Brown,18,Genderfluid,Pathfinder,White,80,472867,new,15441.19
+231,Katie Moore,47,Genderfluid,Quest,Silver,166,343711,old,34560.34
+232,Mike Miller,46,Polygender,Altima,Silver,216,653897,new,25086.44
+233,David Brown,63,Male,Juke,Orange,333,15214,old,26869.1
+234,Sophie Johnson,58,Male,Maxima,Silver,246,199765,very bad,21892.82
+235,Mike Smith,31,Female,Maxima,Silver,32,367634,bad,35372.83
+236,,,,,,,,,
+237,Emily Davis,52,Non-binary,Avenir,Black,150,590306,very good,42326.14
+238,Chris Moore,21,Polygender,Gloria,Red,28,299810,new,5037.73
+239,Mike Wilson,25,Polygender,March / Micra,Yellow,203,581373,very good,15191.57
+240,Alex Miller,24,Female,Gloria,Red,379,343647,old,28657.84
+241,John Brown,51,Female,Altima,Green,347,681411,very bad,6733.92
+242,,,,,,,,,
+243,Katie Miller,63,Male,March / Micra,Red,113,689070,old,43503.54
+244,Mike Jones,31,Non-binary,Rnessa,Black,268,542155,very good,21470.82
+245,Alex Brown,46,Genderfluid,Pathfinder,Yellow,22,663756,very good,12355.96
+246,Laura Smith,18,Non-binary,Altima,Orange,81,618315,new,14457.25
+247,,,,,,,,,
+248,Katie Davis,52,Genderfluid,Altima,Orange,279,910437,very good,26055.47
+249,David Brown,55,Male,Leaf,Purple,277,303102,new,43097.21
+250,Katie Jones,47,Non-binary,Maxima,Black,194,580639,very bad,13512.99
+251,,,,,,,,,
+252,John Jones,26,Polygender,Quest,Red,328,151464,new,26295.69
+253,Laura Smith,43,Polygender,Quest,Black,139,232762,bad,41247.39
+254,Katie Miller,63,Non-binary,Maxima,Purple,93,47527,very good,31602.64
+255,David Wilson,29,Polygender,Gloria,Gray,38,422263,new,6368.95
+256,Chris Moore,64,Female,Maxima,Silver,92,452280,new,46066.44
+257,Chris Williams,30,Female,Quest,Purple,345,5022,bad,36218.49
+258,Jane Miller,44,Non-binary,Gloria,Black,78,70778,old,14697.67
+259,Sophie Wilson,49,Female,March / Micra,Black,213,351067,bad,24381.22
+260,John Smith,34,Genderfluid,Leaf,Green,100,356475,bad,33656.08
+261,Alex Taylor,35,Male,Avenir,Red,328,940827,very bad,16468.57
+262,Sophie Taylor,47,Polygender,Avenir,Gray,392,494862,new,6709.7
+263,David Davis,26,Male,Leaf,Yellow,82,521887,bad,29078.81
+264,Katie Davis,33,Polygender,Juke,White,313,408450,bad,22792.11
+265,John Williams,41,Non-binary,Pathfinder,Green,102,420314,old,25398.85
+266,Chris Moore,26,Male,Juke,Yellow,151,454671,very bad,18091.93
+267,Jane Moore,40,Non-binary,Rnessa,Purple,165,421194,very bad,31728.2
+268,Alex Wilson,31,Genderfluid,March / Micra,Gray,319,689398,new,34522.71
+269,John Wilson,64,Female,Pathfinder,Red,109,457501,very bad,42324.23
+270,Katie Smith,39,Female,Avenir,Orange,58,271859,very good,26208.07
+271,Sophie Brown,69,Genderfluid,Gloria,Yellow,305,113839,new,32155.81
+272,John Johnson,53,Polygender,Leaf,White,7,723387,old,23035.4
+273,John Smith,31,Non-binary,Juke,Red,90,622428,very good,10412.14
+274,Laura Davis,31,Non-binary,Altima,Orange,38,581444,new,16678.89
+275,John Moore,19,Polygender,Leaf,Blue,352,806234,old,49936.49
+276,,,,,,,,,
+277,Jane Taylor,36,Genderfluid,Juke,Orange,12,296920,very bad,47477.58
+278,David Davis,40,Female,Rnessa,Yellow,122,649708,bad,5639.99
+279,Chris Davis,39,Genderfluid,March / Micra,Silver,229,112632,very bad,16193.7
+280,Mike Miller,69,Male,Rnessa,Red,247,243055,new,34669.34
+281,Jane Moore,40,Genderfluid,March / Micra,Gray,387,639782,old,29303.86
+282,Chris Wilson,68,Polygender,Avenir,Gray,380,574449,very good,29212.62
+283,David Williams,48,Non-binary,Avenir,White,95,876813,very good,30994.36
+284,Laura Miller,34,Male,Avenir,Blue,57,101163,old,12695.15
+285,Mike Miller,28,Genderfluid,Juke,White,70,761180,old,24596.18
+286,,,,,,,,,
+287,Emily Taylor,37,Male,Maxima,White,330,574802,bad,19638.63
+288,Katie Moore,69,Non-binary,Maxima,Red,153,896558,very bad,22934.45
+289,Emily Taylor,43,Genderfluid,Leaf,Black,234,524315,very good,13136.62
+290,Emily Wilson,22,Male,Quest,Gray,112,122302,very bad,29425.26
+291,John Brown,43,Non-binary,Pathfinder,Blue,394,94091,very bad,41321.83
+292,,,,,,,,,
+293,John Davis,68,Male,Pathfinder,Silver,11,464795,old,45162.27
+294,Laura Williams,53,Male,Altima,Green,279,49845,very bad,16543.96
+295,Chris Davis,36,Non-binary,Gloria,Silver,157,199984,bad,32559.8
+296,Emily Brown,22,Polygender,Leaf,Yellow,92,980398,new,36928.26
+297,Alex Williams,27,Polygender,Gloria,Silver,221,779727,bad,29422.23
+298,John Brown,44,Non-binary,Leaf,Orange,112,682981,old,49996
+299,Emily Williams,69,Female,Avenir,Yellow,397,848099,new,17792.96
+300,John Taylor,45,Non-binary,Juke,Green,315,480148,old,45311.82
+301,Jane Brown,19,Non-binary,Juke,White,192,177743,bad,8395.79
+302,Emily Brown,52,Female,Rnessa,Blue,196,50214,bad,33645.17
+303,Laura Smith,41,Polygender,Avenir,Silver,177,954236,old,32590.55
+304,,,,,,,,,
+305,Laura Davis,64,Polygender,Gloria,Green,393,578775,old,11190.59
+306,Jane Smith,23,Non-binary,March / Micra,Green,22,521929,new,31292.83
+307,David Johnson,35,Non-binary,Quest,Gray,169,810926,very bad,23518.63
+308,David Davis,39,Polygender,Juke,Purple,75,879450,very bad,19055.24
+309,John Taylor,54,Male,March / Micra,Red,88,606550,very good,44685.92
+310,Jane Wilson,32,Female,Rnessa,Gray,30,610349,very bad,47597.79
+311,Mike Miller,53,Female,Pathfinder,Black,287,275039,very good,5373.6
+312,Chris Wilson,43,Polygender,Rnessa,Green,234,631375,old,27927.14
+313,Alex Jones,27,Male,Pathfinder,Orange,202,461576,new,47510.3
+314,John Jones,59,Female,Rnessa,Green,65,925790,new,22207.04
+315,John Taylor,66,Non-binary,Maxima,Red,122,384026,new,46031.87
+316,Laura Wilson,55,Polygender,Rnessa,Yellow,149,645368,new,39088.18
+317,Sophie Miller,36,Male,Avenir,Red,11,12000,very good,33964.46
+318,Mike Williams,61,Genderfluid,Avenir,Purple,88,539455,very bad,22345.25
+319,,,,,,,,,
+320,Alex Jones,41,Non-binary,Quest,Yellow,63,353202,very good,29251.02
+321,Sophie Miller,24,Genderfluid,Quest,Purple,249,159989,very bad,6322.98
+322,Sophie Williams,29,Polygender,Rnessa,Silver,213,82426,very good,47298.83
+323,Jane Wilson,42,Genderfluid,Avenir,Purple,179,9358,bad,18867.9
+324,Laura Brown,49,Male,Leaf,Gray,30,451599,very good,38095.32
+325,Laura Wilson,23,Polygender,Pathfinder,White,209,587032,new,15264.67
+326,John Moore,58,Female,Leaf,Silver,249,947709,bad,40095.2
+327,Jane Moore,18,Female,March / Micra,White,293,780448,very good,7728.2
+328,Katie Williams,64,Female,Avenir,White,85,123773,old,24729.59
+329,Sophie Brown,36,Female,Pathfinder,Black,209,727747,very good,13338.75
+330,Jane Smith,65,Female,Avenir,Green,54,471254,new,10695.06
+331,John Jones,61,Non-binary,Leaf,Purple,139,141292,old,37200.7
+332,Mike Moore,63,Genderfluid,Gloria,Blue,209,458608,new,25442.95
+333,David Williams,57,Male,Juke,White,295,193658,very bad,24234.73
+334,Alex Davis,54,Polygender,Altima,Black,75,983798,very bad,25207.21
+335,Mike Taylor,45,Female,Gloria,Black,57,263216,very bad,40301.88
+336,Katie Miller,56,Genderfluid,Gloria,Yellow,272,335799,old,24527.57
+337,,,,,,,,,
+338,Sophie Williams,62,Genderfluid,Pathfinder,Red,15,146509,old,5794.69
+339,Alex Johnson,61,Female,March / Micra,Black,224,337380,bad,43004.39
+340,David Smith,53,Female,Quest,Green,220,144286,new,27272.16
+341,Alex Miller,32,Non-binary,Gloria,Blue,296,981477,very good,48297.18
+342,,,,,,,,,
+343,Laura Johnson,19,Non-binary,Rnessa,Black,333,337589,very bad,19738.02
+344,Laura Johnson,26,Female,Altima,Black,378,677129,very good,26563.44
+345,Chris Brown,38,Male,Pathfinder,Purple,99,549581,new,31574.43
+346,David Brown,18,Female,Gloria,Green,246,818167,very bad,36606.1
+347,David Jones,41,Genderfluid,Pathfinder,Orange,368,882274,new,29198.43
+348,Alex Miller,57,Genderfluid,Quest,Orange,103,286981,very good,6179.88
+349,Chris Taylor,46,Polygender,Rnessa,Purple,116,915392,very good,47785.24
+350,Chris Brown,29,Male,Altima,Green,3,841079,old,42412.87
+351,Mike Miller,62,Non-binary,Juke,Yellow,113,602863,bad,20882.15
+352,David Johnson,41,Non-binary,Juke,Yellow,374,612521,very bad,37717.17
+353,,,,,,,,,
+354,Mike Wilson,51,Non-binary,Altima,Blue,33,577149,very good,30301.83
+355,Katie Wilson,33,Non-binary,Juke,Silver,221,38815,bad,28490.89
+356,Laura Jones,40,Non-binary,Juke,Red,285,206244,very bad,49590.59
+357,David Brown,19,Male,March / Micra,Black,35,440037,old,34565.76
+358,,,,,,,,,
+359,Alex Johnson,50,Male,Juke,Yellow,189,815225,bad,26516.45
+360,David Johnson,47,Genderfluid,Altima,Blue,71,479869,bad,36801.12
+361,Chris Miller,21,Male,Maxima,Purple,293,361652,old,27588.61
+362,Jane Brown,33,Male,Juke,Gray,141,104114,bad,13383.12
+363,Emily Taylor,43,Male,Altima,Blue,388,339317,very good,42738.31
+364,Alex Williams,42,Polygender,Juke,Yellow,56,571294,old,15268.06
+365,Laura Brown,64,Male,March / Micra,Purple,27,217689,very good,16586.72
+366,Chris Jones,20,Non-binary,Gloria,Blue,118,271049,very good,41770.79
+367,Jane Miller,39,Male,March / Micra,Purple,359,514962,very good,21321.1
+368,John Jones,30,Male,Avenir,Blue,243,158674,bad,46549.46
+369,David Jones,33,Non-binary,Leaf,Silver,16,195826,bad,40262.66
+370,Sophie Williams,39,Male,March / Micra,Blue,381,270601,very bad,46822.11
+371,John Moore,22,Female,Altima,Green,260,247596,bad,7521.64
+372,Laura Wilson,28,Male,March / Micra,Purple,348,340925,bad,41742.47
+373,Chris Moore,29,Non-binary,Avenir,Green,286,204274,new,9034.7
+374,Katie Jones,51,Male,Gloria,Yellow,4,101468,very good,32351.6
+375,Mike Taylor,42,Polygender,Altima,Orange,88,62144,very bad,21006.2
+376,Alex Smith,24,Male,Rnessa,Gray,244,258539,very bad,26215.86
+377,Emily Wilson,28,Female,March / Micra,Orange,101,50661,old,7954.05
+378,,,,,,,,,
+379,Katie Brown,66,Non-binary,Gloria,Silver,116,818397,bad,28797.78
+380,John Smith,47,Polygender,Rnessa,Silver,270,550359,old,15826.6
+381,Sophie Jones,49,Male,Rnessa,Orange,76,137459,bad,36420.03
+382,,,,,,,,,
+383,,,,,,,,,
+384,Jane Taylor,22,Female,Juke,Yellow,9,363948,bad,12129.25
+385,John Jones,39,Female,Quest,Orange,114,12440,very good,5697.23
+386,Emily Moore,57,Polygender,Rnessa,Blue,366,492010,old,42287.73
+387,Laura Moore,25,Non-binary,Maxima,White,317,63026,bad,26061.52
+388,Emily Jones,20,Polygender,Leaf,White,282,887476,new,12800.21
+389,Sophie Jones,45,Male,Altima,Green,180,291972,very bad,44350.09
+390,John Johnson,60,Non-binary,Juke,Blue,302,200437,very good,45695.48
+391,Emily Williams,23,Non-binary,Avenir,Orange,369,111870,bad,24167.08
+392,,,,,,,,,
+393,Emily Miller,60,Female,Juke,Purple,166,800770,old,40283.01
+394,Laura Moore,44,Non-binary,Juke,Gray,141,424124,bad,27287.45
+395,Jane Brown,26,Female,Rnessa,White,310,520722,very bad,21115.58
+396,,,,,,,,,
+397,Mike Johnson,63,Female,Leaf,Orange,110,461185,bad,21998.39
+398,John Moore,43,Male,Avenir,Silver,87,616344,very bad,48601.67
+399,Jane Miller,64,Female,Maxima,White,337,204488,very good,6092.04
+400,David Wilson,25,Non-binary,Gloria,Black,242,69864,very bad,42401.26
+401,,,,,,,,,
+402,John Moore,60,Genderfluid,Leaf,Blue,197,557848,new,28531.88
+403,John Brown,66,Non-binary,Leaf,Green,56,163069,bad,29714.77
+404,Laura Taylor,40,Non-binary,Leaf,Purple,63,228943,old,21829.72
+405,Mike Davis,55,Genderfluid,Juke,Red,361,87393,bad,11473.06
+406,Sophie Moore,20,Female,Rnessa,White,92,472468,very good,21711.55
+407,Emily Miller,23,Female,Leaf,Yellow,341,307980,old,12092.6
+408,Alex Smith,65,Genderfluid,Gloria,Red,23,590838,old,40382.97
+409,Mike Williams,28,Non-binary,Quest,Gray,173,311737,bad,30094.05
+410,John Johnson,34,Polygender,Pathfinder,Red,122,143808,very good,24535.44
+411,Jane Smith,33,Non-binary,Gloria,Purple,329,890886,very bad,5285.27
+412,John Brown,64,Male,Altima,Purple,189,285933,very good,30622.36
+413,John Davis,38,Male,March / Micra,Red,376,311550,very good,11644.16
+414,Sophie Wilson,52,Polygender,Maxima,Red,45,484731,very good,12469.13
+415,Katie Miller,66,Female,Maxima,Blue,166,437609,very bad,25089.39
+416,Chris Smith,28,Genderfluid,Rnessa,Gray,209,46839,old,31818.33
+417,,,,,,,,,
+418,Chris Miller,33,Female,Maxima,Purple,17,725625,bad,7704.19
+419,Mike Davis,39,Male,Avenir,Blue,199,740492,old,48088.87
+420,Jane Wilson,69,Male,Rnessa,Silver,321,885210,very bad,15152.5
+421,Jane Jones,43,Genderfluid,Maxima,Red,251,687596,very good,28983.27
+422,Mike Davis,20,Genderfluid,Juke,Green,94,781541,bad,18309.59
+423,Laura Miller,19,Polygender,Pathfinder,Yellow,106,267024,bad,13293.72
+424,Sophie Miller,50,Non-binary,Gloria,Purple,309,329818,new,28425.78
+425,Chris Miller,21,Female,Altima,Yellow,155,350828,new,20808.2
+426,David Davis,63,Genderfluid,Maxima,Silver,167,891294,very bad,31817.76
+427,David Johnson,34,Genderfluid,Leaf,Yellow,81,355715,bad,13892.92
+428,John Brown,66,Male,Altima,Purple,245,857079,old,27792.42
+429,Alex Brown,36,Male,Pathfinder,Orange,149,589998,bad,18338.28
+430,Emily Jones,58,Non-binary,Leaf,Yellow,321,265832,bad,47523.76
+431,,,,,,,,,
+432,Chris Moore,41,Polygender,Gloria,White,188,681112,new,19155.26
+433,Mike Johnson,59,Polygender,Leaf,Orange,152,400054,old,41102.75
+434,,,,,,,,,
+435,Alex Williams,25,Polygender,Altima,Blue,167,415096,new,17481.53
+436,,,,,,,,,
+437,Mike Smith,20,Genderfluid,Avenir,Gray,203,668804,very bad,42363.96
+438,,,,,,,,,
+439,Laura Williams,40,Female,Rnessa,Red,225,29919,bad,9437.33
+440,Emily Jones,58,Polygender,Altima,Green,334,532381,bad,28405.48
+441,,,,,,,,,
+442,John Smith,56,Genderfluid,Quest,Purple,139,848035,bad,42364.92
+443,Mike Taylor,21,Non-binary,Juke,Silver,335,595587,new,6978.46
+444,,,,,,,,,
+445,Jane Davis,44,Non-binary,Rnessa,White,322,953742,very bad,40773.79
+446,Alex Wilson,44,Genderfluid,Pathfinder,Silver,353,835687,bad,25587.45
+447,Emily Miller,55,Male,Leaf,Gray,262,723776,very bad,38637.56
+448,Chris Davis,23,Male,Quest,Purple,397,584963,very bad,47108.02
+449,Chris Taylor,50,Male,Rnessa,Black,313,546241,bad,6108.93
+450,Emily Miller,34,Male,Juke,Green,326,461539,new,48880.75
+451,,,,,,,,,
+452,Laura Miller,60,Non-binary,Gloria,Blue,94,278256,very good,42251.35
+453,John Moore,44,Polygender,Maxima,Yellow,239,632906,new,47063.67
+454,,,,,,,,,
+455,Chris Jones,59,Female,Rnessa,Purple,102,834687,bad,48489.06
+456,Sophie Jones,51,Genderfluid,Maxima,Blue,125,19716,very bad,22946.92
+457,,,,,,,,,
+458,David Jones,59,Polygender,Juke,Purple,231,238334,bad,46632.29
+459,Katie Brown,51,Female,Pathfinder,Silver,8,295512,bad,39670.84
+460,David Davis,52,Polygender,Rnessa,Red,159,559143,very bad,22481.05
+461,Laura Smith,24,Genderfluid,Rnessa,Blue,261,379201,new,6631.89
+462,Laura Jones,37,Polygender,Rnessa,Orange,21,536891,very good,18070.16
+463,Chris Davis,22,Male,Juke,Gray,326,422264,old,32356.66
+464,Jane Moore,59,Polygender,Quest,Silver,284,956204,very good,8754.18
+465,Jane Smith,32,Male,Juke,Red,228,462743,old,42387.09
+466,Sophie Jones,50,Female,Leaf,Purple,399,474056,very bad,28906.98
+467,Mike Moore,20,Non-binary,Rnessa,Purple,187,590053,old,34259.5
+468,,,,,,,,,
+469,,,,,,,,,
+470,Chris Jones,60,Female,Quest,Silver,272,402413,very bad,6597.97
+471,Laura Davis,26,Male,Quest,Purple,240,714891,bad,38853.39
+472,Jane Johnson,49,Female,Maxima,Red,17,304073,bad,26822
+473,David Smith,59,Male,Pathfinder,Black,290,847271,very good,47290.02
+474,David Brown,37,Male,Altima,Blue,58,449868,very bad,31950.17
+475,Mike Davis,41,Female,Altima,Purple,196,221112,very good,26896.42
+476,Chris Moore,58,Male,Quest,Green,250,686274,new,45302.78
+477,Alex Davis,55,Genderfluid,March / Micra,Red,137,311701,old,32731.71
+478,Jane Miller,58,Non-binary,March / Micra,Red,110,254936,old,47888.05
+479,Katie Moore,27,Female,Avenir,Gray,105,816604,bad,5750.25
+480,Chris Taylor,42,Genderfluid,Quest,White,190,223755,very good,31139.56
+481,Mike Smith,63,Female,Quest,Purple,306,622406,very bad,12037.05
+482,Mike Taylor,18,Female,Quest,Orange,278,226620,old,43668.97
+483,Alex Smith,62,Non-binary,Altima,Silver,171,343019,bad,18117.04
+484,John Smith,33,Male,Maxima,White,193,950159,very bad,38750.57
+485,David Smith,31,Male,Maxima,Blue,273,356579,very bad,7650.69
+486,Jane Moore,47,Male,Pathfinder,Purple,202,982206,bad,11103.41
+487,Chris Davis,64,Non-binary,March / Micra,Green,273,692448,very good,10291.7
+488,David Davis,62,Genderfluid,Maxima,White,128,924683,bad,48475.94
+489,David Miller,31,Polygender,Juke,Green,230,84667,new,35793.78
+490,Sophie Miller,45,Female,Pathfinder,Green,388,851639,very bad,35451.58
+491,Jane Moore,37,Genderfluid,Altima,Gray,79,843627,new,34131.71
+492,Katie Smith,50,Genderfluid,Gloria,Blue,69,613456,old,19246.79
+493,Sophie Jones,50,Female,Rnessa,Green,73,656580,old,25263.34
+494,Emily Johnson,47,Polygender,Gloria,Orange,379,120612,bad,43893.4
+495,Laura Johnson,69,Genderfluid,Gloria,Black,153,568350,very good,44596.63
+496,Alex Brown,22,Polygender,Quest,Silver,374,921014,very good,19965.49
+497,Chris Williams,59,Polygender,March / Micra,Silver,222,830729,bad,42208.41
+498,David Johnson,26,Polygender,Gloria,Silver,106,367015,very bad,35166.28
+499,John Taylor,69,Genderfluid,Maxima,Green,27,615400,bad,7617.83
+500,Chris Williams,25,Male,Maxima,Blue,121,776086,very bad,16219.82
+501,David Miller,36,Male,Avenir,Silver,65,957899,very good,45353.26
+502,Mike Jones,37,Male,Quest,Black,313,157022,new,17613.97
+503,Mike Wilson,61,Non-binary,Altima,White,93,469521,new,38282.12
+504,Jane Jones,69,Female,Avenir,Orange,52,912904,very bad,41051.34
+505,David Taylor,40,Non-binary,Altima,Orange,316,397783,old,23772.93
+506,Chris Miller,33,Male,Altima,Red,254,373468,very bad,16314.06
+507,,,,,,,,,
+508,Emily Jones,31,Non-binary,Quest,Orange,244,741656,very good,13669.74
+509,Jane Johnson,42,Genderfluid,Maxima,Black,211,430322,very bad,16436.39
+510,,,,,,,,,
+511,David Johnson,20,Female,Avenir,Green,212,952547,very good,15916.43
+512,David Wilson,67,Male,Rnessa,Gray,200,871886,new,6726.6
+513,Emily Jones,19,Polygender,Leaf,Yellow,115,413683,very bad,9628.59
+514,Mike Moore,26,Female,Juke,Silver,235,678943,new,29456.09
+515,Alex Brown,19,Female,Altima,Yellow,270,312292,very bad,29348.85
+516,David Jones,31,Non-binary,Altima,White,238,673321,old,8862.54
+517,John Jones,28,Male,Leaf,Yellow,28,350709,very good,46997.62
+518,Laura Davis,48,Female,Gloria,Blue,144,888621,new,38482.66
+519,Jane Williams,56,Male,Gloria,Green,275,102643,new,5244.24
+520,John Smith,33,Polygender,Gloria,Green,176,648815,bad,31207.48
+521,Chris Davis,60,Polygender,Maxima,Purple,15,401358,very good,33347.79
+522,Emily Williams,28,Female,Quest,Black,373,359257,bad,11752.79
+523,Alex Jones,60,Male,Leaf,Orange,387,478609,very good,44832.61
+524,Chris Miller,33,Female,Juke,Blue,389,709818,old,44849.2
+525,Chris Taylor,19,Genderfluid,Avenir,Gray,258,44742,bad,20413.18
+526,Alex Williams,32,Male,Leaf,Purple,201,55301,new,23101.25
+527,Sophie Taylor,67,Female,Quest,Blue,3,936634,new,34817.43
+528,Katie Jones,29,Polygender,Altima,Orange,21,300597,very bad,7598.32
+529,Chris Taylor,65,Polygender,Pathfinder,Silver,13,549457,very bad,38726.59
+530,Katie Davis,52,Male,Maxima,Silver,226,96202,new,34680.89
+531,Sophie Davis,31,Polygender,Quest,White,347,339982,very good,9137.36
+532,Katie Davis,45,Polygender,Juke,Purple,253,425339,very good,43723.98
+533,David Johnson,55,Polygender,Altima,Red,25,551760,bad,49439.11
+534,Sophie Taylor,18,Polygender,Gloria,Orange,161,821948,bad,31467.25
+535,Alex Davis,19,Female,Avenir,Yellow,217,534830,very bad,22519.5
+536,Emily Brown,40,Polygender,March / Micra,White,135,289850,very good,5204.24
+537,,,,,,,,,
+538,Chris Davis,39,Genderfluid,Juke,Blue,310,90077,bad,30259.59
+539,Katie Johnson,29,Male,Altima,Black,171,649579,very bad,6178.87
+540,John Smith,18,Male,Leaf,White,246,332816,old,40243.52
+541,Sophie Williams,60,Genderfluid,Rnessa,Black,359,233278,old,20526.34
+542,Mike Miller,49,Male,Altima,Blue,42,644702,very good,24690.63
+543,Emily Williams,30,Non-binary,Maxima,Orange,231,995287,very bad,38722.08
+544,Jane Taylor,19,Female,Avenir,Purple,173,834513,old,41404.99
+545,Laura Moore,44,Female,Altima,Green,397,595510,bad,7022.1
+546,Katie Taylor,32,Male,Maxima,Orange,93,76048,very bad,44955.87
+547,Mike Brown,24,Polygender,Leaf,Purple,341,206634,very bad,41715.4
+548,Jane Jones,58,Non-binary,March / Micra,Silver,380,886364,very bad,12283.83
+549,Sophie Miller,29,Female,Juke,White,391,83805,new,9005.05
+550,Mike Taylor,68,Non-binary,Altima,Black,93,217076,bad,32248.49
+551,John Smith,48,Polygender,Rnessa,Green,391,118819,very good,11340.36
+552,Mike Miller,26,Genderfluid,Gloria,Purple,240,431890,new,18028.41
+553,Sophie Wilson,53,Genderfluid,Quest,White,229,975438,bad,16494.87
+554,Katie Smith,59,Genderfluid,Avenir,Gray,51,516109,very good,34765.44
+555,Emily Taylor,53,Non-binary,Altima,Green,32,772117,old,19463.18
+556,David Williams,54,Genderfluid,Maxima,Gray,52,420206,new,23085.74
+557,Alex Brown,26,Genderfluid,Leaf,Orange,59,966903,old,5763.7
+558,John Davis,65,Female,Maxima,Orange,225,41356,bad,37388.67
+559,John Brown,48,Non-binary,Quest,Purple,274,140290,old,19572.22
+560,Alex Davis,64,Non-binary,Pathfinder,Silver,79,30031,old,36226.9
+561,Laura Taylor,36,Female,Rnessa,Gray,148,154509,old,9909.75
+562,Jane Moore,20,Polygender,Rnessa,Red,296,550531,very good,42529.5
+563,David Wilson,68,Non-binary,Leaf,Purple,396,182945,very good,47853.15
+564,Jane Johnson,24,Polygender,Quest,Gray,231,197442,new,9518.26
+565,Mike Taylor,34,Male,Rnessa,Black,370,246147,very bad,27610.79
+566,,,,,,,,,
+567,Mike Jones,58,Male,March / Micra,Silver,123,334194,new,13466.56
+568,Emily Brown,18,Female,Leaf,Yellow,227,651363,very good,12033.56
+569,Jane Wilson,41,Genderfluid,Altima,Green,206,825237,very good,32349.18
+570,Mike Taylor,68,Female,Juke,Silver,211,374712,very bad,25983.42
+571,,,,,,,,,
+572,John Miller,22,Male,Maxima,Green,38,297283,very good,41577.5
+573,Sophie Brown,41,Polygender,Avenir,Silver,289,631140,new,43334.94
+574,Emily Wilson,36,Female,March / Micra,Red,158,617076,very bad,41663.35
+575,David Jones,40,Male,March / Micra,Green,393,873019,very good,5330.19
+576,,,,,,,,,
+577,Sophie Davis,64,Male,Juke,Yellow,196,984920,very bad,13010.14
+578,Emily Davis,69,Non-binary,Leaf,White,27,332649,very good,26524.89
+579,Jane Johnson,61,Non-binary,Avenir,Blue,347,770307,very good,26274.61
+580,Sophie Wilson,56,Non-binary,Leaf,Black,11,32417,old,19649.75
+581,Jane Smith,58,Male,Rnessa,Purple,227,77875,bad,35149.39
+582,,,,,,,,,
+583,Alex Taylor,20,Polygender,Gloria,Orange,353,941025,bad,14066.13
+584,John Moore,33,Male,Quest,Blue,284,890400,new,5918.37
+585,David Moore,44,Polygender,Avenir,Silver,277,413104,old,31965.76
+586,,,,,,,,,
+587,David Smith,25,Male,Pathfinder,Green,160,601837,new,46966.53
+588,Sophie Wilson,36,Genderfluid,Altima,Blue,151,248394,bad,10713.84
+589,Mike Johnson,49,Male,Maxima,Orange,344,161887,very good,45634.85
+590,Emily Moore,29,Male,Leaf,Silver,42,363683,bad,9765.96
+591,,,,,,,,,
+592,Mike Davis,31,Female,Juke,White,189,685865,old,46776.77
+593,Chris Jones,48,Non-binary,Avenir,Green,124,650433,old,25944.72
+594,Alex Davis,25,Non-binary,Quest,Purple,72,757929,bad,46027.78
+595,,,,,,,,,
+596,Alex Johnson,43,Polygender,Quest,Orange,196,434379,old,26949.87
+597,Laura Johnson,50,Genderfluid,March / Micra,Purple,259,633693,old,12551.61
+598,Katie Moore,18,Male,Pathfinder,Silver,9,40193,bad,48688.37
+599,David Brown,19,Genderfluid,Rnessa,Blue,331,283009,new,14394.31
+600,Alex Davis,25,Male,Maxima,Black,391,361139,very good,36578.39
+601,Katie Williams,21,Male,Pathfinder,Purple,177,100882,old,43575.42
+602,,,,,,,,,
+603,Mike Williams,27,Non-binary,Maxima,Blue,255,981139,very good,44987.12
+604,Katie Jones,56,Non-binary,Quest,Silver,155,642046,very bad,34620.03
+605,Laura Johnson,49,Polygender,March / Micra,Blue,188,997561,very bad,7532.9
+606,Alex Miller,67,Polygender,Rnessa,Black,292,412597,old,37607.83
+607,Laura Brown,36,Non-binary,Altima,Yellow,132,177628,old,11837.37
+608,Sophie Williams,20,Non-binary,Avenir,Purple,278,747265,bad,49093.24
+609,Mike Miller,21,Polygender,Rnessa,Orange,243,681532,bad,6530.32
+610,Emily Davis,48,Male,Altima,Green,201,310187,new,33528.75
+611,Laura Brown,46,Male,Maxima,Red,270,986051,old,30129.49
+612,John Jones,30,Polygender,Gloria,Green,214,942173,new,39108.48
+613,Katie Taylor,68,Genderfluid,Rnessa,Orange,299,462305,bad,24757.03
+614,Katie Davis,32,Polygender,Avenir,Green,341,413527,bad,9283.41
+615,Chris Johnson,23,Genderfluid,Altima,White,249,337564,very bad,38886.56
+616,John Moore,23,Female,March / Micra,Black,309,815901,bad,43850.69
+617,Chris Williams,56,Non-binary,Altima,Yellow,174,325714,new,46542.93
+618,Katie Wilson,31,Polygender,Juke,Purple,65,449871,very good,23068.75
+619,Mike Brown,19,Polygender,Quest,Green,211,123932,old,28416.47
+620,Laura Taylor,31,Polygender,Juke,Silver,385,779576,old,7928.23
+621,Laura Wilson,27,Polygender,Juke,Silver,325,66837,bad,37241.58
+622,Chris Jones,44,Male,Altima,Green,321,706107,very good,11177.02
+623,Jane Williams,56,Polygender,Pathfinder,Red,121,204972,old,13268.41
+624,Alex Miller,45,Non-binary,Quest,Silver,90,717151,very bad,30064.98
+625,John Taylor,41,Genderfluid,Quest,White,76,463993,new,17440.96
+626,Sophie Miller,48,Female,March / Micra,Silver,174,483596,new,25109.78
+627,David Davis,46,Non-binary,Altima,Black,231,783834,very bad,14791.36
+628,Emily Johnson,24,Female,Juke,Green,167,153645,new,37441.82
+629,John Brown,67,Polygender,Maxima,Green,389,204043,very good,34186.69
+630,Emily Brown,69,Genderfluid,Leaf,Green,135,221012,old,12893.62
+631,Katie Jones,65,Female,March / Micra,Silver,161,360727,old,16435.51
+632,Emily Williams,37,Polygender,Pathfinder,Gray,214,931403,very bad,21306.61
+633,Sophie Miller,63,Genderfluid,Juke,Black,42,672946,new,18234.35
+634,Alex Miller,64,Genderfluid,Quest,Purple,194,125546,old,30161.48
+635,John Davis,42,Non-binary,Maxima,Silver,108,867331,old,39814.71
+636,David Jones,67,Polygender,Pathfinder,Gray,268,69043,bad,26741.87
+637,Laura Moore,54,Genderfluid,Pathfinder,White,229,844399,old,47011.08
+638,John Taylor,31,Male,Gloria,White,383,309003,old,34171.89
+639,Jane Williams,69,Polygender,Quest,White,238,858319,bad,12275.58
+640,Mike Jones,67,Female,Gloria,Blue,88,199067,new,49094.21
+641,,,,,,,,,
+642,,,,,,,,,
+643,John Wilson,42,Male,Maxima,Red,13,704459,bad,18547.35
+644,Chris Jones,52,Genderfluid,March / Micra,Gray,245,800039,very bad,20815.93
+645,Alex Wilson,18,Non-binary,Juke,Black,245,621891,very good,16020.85
+646,David Davis,46,Female,Altima,White,262,135900,bad,43910.16
+647,Alex Wilson,24,Genderfluid,Quest,Blue,134,368737,new,45852.07
+648,Jane Moore,27,Genderfluid,Juke,Orange,275,217331,very good,10237.04
+649,David Smith,46,Male,March / Micra,Gray,20,656561,very bad,26788.37
+650,Katie Wilson,18,Male,Juke,Purple,74,415628,very good,44634.41
+651,,,,,,,,,
+652,Alex Johnson,31,Male,Quest,Green,308,768778,old,44963.32
+653,Jane Miller,22,Polygender,March / Micra,Purple,73,564782,bad,42370.95
+654,Alex Johnson,40,Female,Juke,Blue,150,474010,new,10253.2
+655,Emily Miller,44,Genderfluid,Avenir,Orange,64,159084,very good,15544.13
+656,Emily Johnson,35,Polygender,March / Micra,Blue,324,715982,bad,22321.44
+657,John Johnson,60,Polygender,Rnessa,White,282,475245,new,46167.3
+658,Katie Taylor,34,Polygender,Pathfinder,Black,236,37851,new,32413.6
+659,Mike Davis,67,Polygender,Avenir,Blue,65,415788,old,27889.04
+660,Katie Brown,48,Female,Leaf,Black,327,188973,new,8876.23
+661,John Williams,53,Non-binary,Rnessa,Yellow,102,517436,very bad,7334.71
+662,Jane Johnson,60,Female,Gloria,Red,202,343461,bad,11880.18
+663,Laura Williams,66,Polygender,Juke,Red,148,944353,old,29785.21
+664,Jane Davis,22,Non-binary,Gloria,Blue,141,854531,very good,6045.62
+665,Emily Johnson,62,Male,Gloria,Orange,343,362014,very bad,37543.6
+666,Chris Williams,43,Polygender,Leaf,Silver,24,529046,very good,44390.15
+667,Laura Williams,48,Genderfluid,Rnessa,Silver,95,236109,very bad,28073.43
+668,Mike Wilson,38,Male,Pathfinder,Red,87,353419,new,48974.45
+669,Laura Wilson,28,Genderfluid,Pathfinder,Black,218,733893,new,40630.61
+670,Sophie Williams,26,Non-binary,Gloria,Green,328,922169,old,24123.25
+671,Chris Brown,21,Male,Rnessa,Black,165,636558,very bad,8990.81
+672,Katie Williams,30,Non-binary,Rnessa,Yellow,313,446262,very good,7066.39
+673,Chris Davis,62,Male,Pathfinder,Red,187,633212,bad,20730.6
+674,,,,,,,,,
+675,Alex Davis,42,Female,Gloria,Red,176,764543,bad,25501.63
+676,Mike Brown,23,Male,Avenir,Silver,56,316321,bad,9716.9
+677,Emily Taylor,56,Genderfluid,March / Micra,Green,310,494520,new,37950.09
+678,David Brown,24,Male,Pathfinder,Green,167,482241,very good,42262.77
+679,Alex Miller,20,Non-binary,Pathfinder,Green,252,917715,old,31979.14
+680,Katie Moore,28,Non-binary,March / Micra,White,355,512352,very good,10699.08
+681,Alex Miller,63,Genderfluid,Gloria,Black,171,217118,very bad,8397.07
+682,David Jones,30,Male,Juke,Yellow,178,903749,very bad,15465.12
+683,David Jones,23,Polygender,Quest,Green,290,256487,very bad,25530.35
+684,Mike Moore,53,Female,Maxima,Green,30,799682,very bad,43865.53
+685,David Wilson,64,Non-binary,Quest,Orange,399,740674,very good,20614.75
+686,Jane Wilson,59,Male,March / Micra,Black,127,919482,bad,19590.38
+687,Katie Moore,23,Female,Pathfinder,Purple,291,30347,old,8501.61
+688,Sophie Smith,40,Polygender,Leaf,Silver,297,129659,very bad,19976.52
+689,Laura Williams,32,Polygender,Rnessa,Silver,388,247020,very bad,9495.75
+690,Katie Wilson,48,Female,Rnessa,Yellow,258,698675,bad,31051.69
+691,Emily Taylor,40,Non-binary,March / Micra,Silver,38,900020,bad,35149.33
+692,Chris Brown,34,Non-binary,Altima,Black,137,333009,new,19422.26
+693,Emily Smith,23,Male,Gloria,Yellow,205,977749,very bad,10712.88
+694,Katie Moore,66,Genderfluid,Rnessa,Blue,211,796029,very bad,28991.23
+695,Emily Miller,19,Genderfluid,Pathfinder,Red,105,160270,very bad,36447.14
+696,Mike Wilson,18,Female,Maxima,Yellow,303,560543,very good,24410.89
+697,John Smith,32,Genderfluid,Altima,Yellow,326,516834,old,35416.29
+698,John Smith,55,Polygender,Avenir,Black,171,674158,old,14791.48
+699,Alex Miller,54,Non-binary,Pathfinder,Silver,378,476118,new,16165.4
+700,Chris Davis,22,Genderfluid,Juke,Yellow,65,879065,bad,39807.99
+701,Alex Williams,35,Female,Gloria,Purple,128,578328,bad,35253.74
+702,Chris Brown,20,Non-binary,Leaf,Blue,53,808692,bad,41257.69
+703,David Brown,28,Male,Altima,White,62,5420,old,40190.19
+704,Laura Jones,18,Non-binary,Altima,Blue,60,364561,new,39439.38
+705,David Moore,57,Polygender,Altima,Orange,337,417703,very bad,43048.19
+706,John Williams,24,Male,Quest,Blue,8,667826,very bad,43771.24
+707,Jane Brown,24,Genderfluid,March / Micra,Black,336,728370,very good,21428.1
+708,John Williams,66,Female,Altima,Green,175,331499,old,14064.48
+709,Laura Moore,27,Female,Avenir,Blue,144,145611,very bad,19855.9
+710,Sophie Williams,67,Female,Maxima,Gray,317,848243,very bad,7812.28
+711,David Jones,61,Non-binary,Leaf,Silver,171,140030,bad,34557.37
+712,Laura Jones,58,Male,Avenir,White,337,566924,very good,49444.59
+713,Sophie Miller,44,Male,Pathfinder,Red,385,455069,very bad,34694.99
+714,Katie Smith,34,Genderfluid,Juke,Red,389,835710,very good,40698.89
+715,Laura Smith,54,Genderfluid,Quest,Black,311,945930,bad,35928.37
+716,,,,,,,,,
+717,Laura Jones,45,Male,Pathfinder,Red,235,665529,new,23930.46
+718,John Brown,19,Genderfluid,Avenir,Yellow,219,85932,very good,9270.69
+719,John Jones,28,Male,Altima,White,31,440338,very bad,41188.9
+720,Alex Moore,25,Non-binary,Quest,Purple,389,619061,new,21588.92
+721,David Johnson,29,Male,Leaf,Blue,162,38186,very good,23560.61
+722,,,,,,,,,
+723,Jane Wilson,45,Male,Altima,Silver,220,529315,very good,44560.45
+724,Katie Moore,29,Polygender,Avenir,White,111,29906,very good,15755.73
+725,,,,,,,,,
+726,Katie Miller,21,Male,Pathfinder,Orange,18,597682,old,9648.44
+727,Katie Smith,46,Male,Rnessa,Silver,153,627565,old,19837.22
+728,Chris Wilson,64,Polygender,Juke,White,31,27891,old,16917.4
+729,Emily Smith,42,Female,Gloria,Gray,317,863572,new,12433.93
+730,Jane Davis,43,Non-binary,Leaf,Orange,33,364456,new,42578.71
+731,John Moore,66,Non-binary,Rnessa,Green,154,711485,new,39701.59
+732,Alex Johnson,69,Non-binary,March / Micra,Green,32,520788,bad,26071.99
+733,Mike Moore,41,Female,Gloria,Red,321,502880,very good,32943.11
+734,Jane Jones,64,Polygender,Pathfinder,Gray,154,558887,very bad,37145.81
+735,Mike Taylor,64,Non-binary,Pathfinder,Blue,325,749260,very good,5081.96
+736,David Taylor,35,Male,Quest,Silver,166,577490,new,11782.54
+737,David Johnson,63,Male,Altima,Blue,156,77289,old,22372.14
+738,Laura Wilson,50,Genderfluid,Avenir,Yellow,117,919838,old,32357.71
+739,Jane Davis,61,Non-binary,Juke,Purple,377,206945,bad,5958.78
+740,Jane Davis,64,Genderfluid,Avenir,White,245,639806,very bad,27872.06
+741,Katie Jones,19,Genderfluid,Avenir,Red,169,877525,old,39883.2
+742,Sophie Jones,26,Male,Pathfinder,Orange,148,643044,very bad,45555.63
+743,,,,,,,,,
+744,Laura Williams,23,Non-binary,Maxima,Green,130,821293,very good,49541.76
+745,David Miller,26,Genderfluid,Altima,Red,333,721619,new,15559.96
+746,Chris Jones,68,Non-binary,Gloria,Yellow,313,605131,new,33781.47
+747,Sophie Smith,49,Non-binary,Altima,Silver,52,59524,old,10494.37
+748,Mike Miller,55,Genderfluid,Pathfinder,Silver,173,725459,very good,47574.05
+749,Mike Brown,66,Non-binary,Rnessa,Red,191,930123,bad,20187.84
+750,Alex Smith,36,Male,Gloria,White,63,900297,new,13160.07
+751,,,,,,,,,
+752,,,,,,,,,
+753,David Davis,58,Genderfluid,Quest,Green,145,95688,new,8770.62
+754,,,,,,,,,
+755,Laura Moore,35,Non-binary,March / Micra,Blue,160,273792,very good,38535.65
+756,Mike Taylor,54,Polygender,March / Micra,Yellow,338,767419,old,11872.65
+757,Sophie Jones,49,Male,Quest,Red,42,584255,old,5741.95
+758,John Wilson,57,Male,Rnessa,Purple,128,846563,very good,40388.45
+759,Alex Moore,55,Male,Maxima,Orange,142,187909,very bad,28240.09
+760,Sophie Wilson,30,Male,Leaf,White,233,659430,new,40870.47
+761,Laura Moore,32,Male,Altima,Green,50,566408,bad,15426.68
+762,Sophie Wilson,35,Polygender,Pathfinder,Orange,74,228127,very good,19034.83
+763,David Brown,64,Male,Avenir,Orange,375,779428,new,23970.74
+764,Katie Moore,61,Male,March / Micra,Black,147,523311,old,34079.88
+765,Katie Moore,50,Male,Rnessa,Purple,99,892289,new,46130.4
+766,Sophie Williams,23,Polygender,Gloria,Green,216,55054,old,31322.01
+767,John Smith,52,Female,Leaf,Gray,139,555925,new,30428.96
+768,Sophie Miller,35,Polygender,Quest,White,123,408409,bad,36616.85
+769,Katie Williams,51,Male,Avenir,Orange,142,175591,very good,42166.56
+770,Jane Moore,60,Genderfluid,Leaf,Yellow,311,42263,new,41360.27
+771,Sophie Brown,61,Genderfluid,Rnessa,White,37,48896,old,27524.48
+772,Alex Wilson,55,Non-binary,Altima,Silver,223,20227,bad,20890.78
+773,Mike Johnson,28,Non-binary,Altima,Silver,300,577397,bad,34703.68
+774,Katie Johnson,34,Male,Juke,White,7,673241,very bad,34774.6
+775,Emily Moore,32,Female,Rnessa,Green,198,843357,very good,8268.64
+776,Emily Davis,47,Male,Pathfinder,Blue,144,389021,very good,33561.57
+777,Sophie Johnson,22,Female,Altima,Blue,27,984178,new,39902.46
+778,John Taylor,53,Polygender,Juke,Orange,199,526791,very good,30492.25
+779,Katie Davis,50,Genderfluid,Maxima,Orange,383,174107,very bad,24908.68
+780,Laura Taylor,46,Non-binary,Leaf,Gray,143,317644,old,37629.7
+781,Chris Smith,40,Genderfluid,Avenir,Black,86,984731,bad,19652.31
+782,Alex Jones,44,Male,Avenir,Yellow,354,17601,new,23831.94
+783,Alex Brown,57,Female,March / Micra,Green,198,67614,very good,26915.94
+784,John Williams,52,Genderfluid,Maxima,Yellow,280,776567,very bad,29497.84
+785,Emily Moore,43,Genderfluid,Juke,Gray,245,925707,old,31240.75
+786,John Moore,54,Male,Avenir,Silver,155,610531,very bad,42518.64
+787,Mike Taylor,66,Genderfluid,March / Micra,Yellow,196,200714,old,13827.83
+788,Laura Moore,40,Male,Altima,Purple,89,56526,old,48859.55
+789,David Moore,65,Polygender,March / Micra,Green,119,569601,very bad,20336.55
+790,Emily Wilson,22,Polygender,Pathfinder,Purple,315,104873,very bad,10989.78
+791,Alex Moore,24,Genderfluid,Quest,Orange,87,130401,old,27253.26
+792,Chris Williams,49,Genderfluid,Rnessa,Orange,190,47221,new,43181.77
+793,Chris Smith,30,Polygender,Juke,Purple,291,532843,bad,30649.28
+794,,,,,,,,,
+795,Alex Taylor,63,Female,Quest,Black,277,880060,very good,12359.04
+796,Alex Smith,41,Male,Avenir,Silver,181,646644,bad,19880.16
+797,Sophie Wilson,25,Polygender,Juke,Orange,251,868180,old,28153.71
+798,Emily Taylor,42,Non-binary,Altima,Black,114,894584,bad,31325.18
+799,Mike Williams,21,Male,Maxima,Green,51,308722,very good,8004.6
+800,Emily Smith,42,Genderfluid,Pathfinder,Gray,314,128034,very bad,29185.61
+801,Jane Davis,60,Non-binary,Rnessa,Black,328,882127,old,7705.6
+802,,,,,,,,,
+803,,,,,,,,,
+804,Mike Williams,31,Polygender,Leaf,Blue,253,505776,very good,33957.11
+805,David Wilson,22,Genderfluid,Maxima,Green,164,894818,very good,41204.12
+806,John Moore,64,Genderfluid,Altima,Purple,379,426176,old,31603.89
+807,Katie Moore,22,Genderfluid,Leaf,Orange,382,888923,very bad,25758.69
+808,Sophie Taylor,29,Non-binary,Juke,Gray,283,970506,very good,7737.08
+809,Laura Johnson,59,Polygender,Juke,Green,331,970701,new,17716.03
+810,Laura Wilson,56,Polygender,Quest,Silver,149,409840,very bad,48203.5
+811,Mike Johnson,62,Polygender,Avenir,Red,252,751753,very good,18729.51
+812,Laura Wilson,46,Female,Altima,Green,289,629185,very good,39285.36
+813,Chris Williams,68,Genderfluid,Avenir,Gray,55,624823,bad,48179.91
+814,Laura Johnson,34,Male,Quest,Gray,361,30829,old,18733.98
+815,Jane Miller,62,Non-binary,Rnessa,Gray,40,111062,very good,39157.96
+816,Katie Johnson,18,Male,Pathfinder,Green,271,729464,bad,25253.6
+817,Laura Davis,47,Male,Rnessa,Orange,217,252979,old,42369.56
+818,Alex Johnson,26,Female,Rnessa,Green,167,272947,bad,18422.53
+819,Chris Jones,60,Non-binary,Altima,Orange,307,553744,new,44042.96
+820,Mike Brown,34,Female,March / Micra,Red,194,248583,very bad,8982.93
+821,David Miller,21,Male,Pathfinder,Red,119,531155,very good,35058.56
+822,David Taylor,46,Non-binary,Rnessa,White,80,115040,bad,13424.63
+823,Chris Jones,26,Female,Leaf,Blue,1,763592,very good,11948.04
+824,Emily Williams,48,Male,Pathfinder,Gray,231,452986,new,35973.52
+825,Chris Taylor,51,Genderfluid,Quest,Yellow,120,922968,bad,36919.23
+826,Chris Johnson,63,Non-binary,Pathfinder,Green,367,350185,very good,27545.98
+827,Chris Wilson,55,Non-binary,Altima,White,190,544346,very bad,10865.67
+828,Sophie Miller,49,Polygender,Juke,Purple,12,722418,very bad,48433.98
+829,Chris Jones,24,Genderfluid,Avenir,Orange,59,473905,very bad,49308.78
+830,Katie Miller,19,Female,Altima,Purple,1,609533,old,32089.58
+831,,,,,,,,,
+832,Chris Johnson,33,Male,March / Micra,Blue,134,741051,very good,12175.19
+833,Sophie Williams,50,Polygender,Quest,White,316,130267,very bad,43480.58
+834,Sophie Moore,60,Non-binary,Leaf,Gray,352,810367,very bad,38293.89
+835,Laura Moore,41,Polygender,Leaf,Orange,348,37696,very bad,45401.48
+836,Sophie Davis,48,Genderfluid,Altima,Yellow,267,204076,bad,15737.77
+837,John Miller,31,Non-binary,Juke,Green,276,761054,bad,20843.92
+838,Laura Brown,66,Polygender,March / Micra,White,217,145849,very good,39320.97
+839,Emily Johnson,39,Male,Altima,Purple,384,136807,very good,28283.83
+840,John Williams,19,Non-binary,Maxima,Green,268,719146,very good,11518.54
+841,Sophie Brown,48,Genderfluid,Avenir,Yellow,66,307041,new,34750.06
+842,Jane Williams,59,Male,Leaf,Black,393,718595,very good,17959.68
+843,,,,,,,,,
+844,Alex Moore,63,Non-binary,Gloria,Yellow,17,520428,old,28710
+845,John Williams,34,Polygender,Avenir,Yellow,114,191919,very good,17631.83
+846,Jane Williams,25,Female,Rnessa,Silver,25,316310,bad,29376.42
+847,Katie Smith,49,Non-binary,Quest,Purple,62,175706,very good,17597.64
+848,Katie Williams,31,Non-binary,Leaf,Green,216,903723,very good,18112.07
+849,Chris Taylor,47,Non-binary,Juke,Black,231,980230,bad,44593.76
+850,Alex Smith,43,Female,Quest,Yellow,261,646103,old,18954.9
+851,Chris Miller,49,Polygender,Avenir,Black,142,149786,very good,11709.99
+852,Laura Taylor,65,Genderfluid,Quest,Orange,68,656156,old,33506.43
+853,Jane Davis,39,Male,Pathfinder,White,200,725946,very good,28548.38
+854,John Miller,61,Genderfluid,Altima,Red,136,398081,bad,41649.07
+855,David Smith,60,Polygender,Leaf,Black,290,752322,bad,43183.21
+856,Katie Miller,67,Genderfluid,Rnessa,White,390,377120,new,5082.2
+857,,,,,,,,,
+858,Sophie Johnson,39,Genderfluid,Quest,Purple,308,305499,very good,7347.3
+859,Katie Smith,45,Non-binary,Leaf,Black,390,574088,new,31574.55
+860,David Johnson,59,Male,Maxima,Yellow,182,844321,very bad,22675.06
+861,Jane Miller,61,Male,Pathfinder,Black,236,158441,very bad,17901.72
+862,David Brown,40,Polygender,Gloria,Purple,167,73453,very bad,41372.66
+863,Sophie Taylor,48,Female,Rnessa,Red,223,585532,old,39173.96
+864,David Smith,62,Genderfluid,Rnessa,Yellow,322,521297,old,7953.37
+865,Mike Jones,57,Genderfluid,Rnessa,Red,381,331079,bad,35305.46
+866,Sophie Wilson,28,Genderfluid,Avenir,Black,217,250924,very good,35709.76
+867,,,,,,,,,
+868,Jane Wilson,48,Female,Rnessa,Orange,222,386555,bad,49474.76
+869,David Taylor,49,Female,Quest,Blue,366,810613,very good,22748.57
+870,Chris Williams,48,Genderfluid,Maxima,Purple,234,149400,bad,46741.08
+871,John Williams,25,Male,Leaf,Yellow,116,547601,bad,47261.15
+872,John Davis,58,Non-binary,Leaf,Silver,305,374832,bad,23232.69
+873,,,,,,,,,
+874,Alex Taylor,24,Polygender,Gloria,Black,263,955242,bad,7744.62
+875,Alex Wilson,55,Male,Altima,Red,325,476020,very good,28736.69
+876,Chris Taylor,45,Genderfluid,Quest,Silver,118,196460,bad,27296.05
+877,Katie Williams,65,Female,March / Micra,Silver,164,685517,very good,13132.3
+878,David Jones,64,Female,Maxima,Black,8,862939,very good,35124.26
+879,Emily Taylor,57,Female,Pathfinder,Green,286,541575,new,8978.54
+880,David Wilson,38,Genderfluid,Gloria,Black,22,424443,new,43839.77
+881,Chris Miller,35,Polygender,March / Micra,Purple,2,438064,old,7972.64
+882,Mike Williams,59,Male,Quest,Green,72,994681,very bad,48023.57
+883,Mike Jones,44,Polygender,Rnessa,White,287,65022,very bad,6091.53
+884,Chris Taylor,67,Non-binary,Pathfinder,Red,368,140708,new,44576.06
+885,Chris Smith,30,Polygender,Gloria,Purple,15,349477,old,38819.97
+886,Mike Smith,63,Female,Pathfinder,White,40,608757,new,37850.86
+887,Jane Smith,36,Male,Leaf,Black,266,705304,very good,46616.05
+888,John Taylor,39,Non-binary,Altima,Orange,154,566754,new,29959.65
+889,Mike Brown,48,Female,Leaf,White,170,809934,bad,41064.51
+890,Chris Johnson,49,Non-binary,Juke,Green,51,192253,new,24892.51
+891,Emily Miller,40,Polygender,Juke,Green,6,550675,new,49721.17
+892,Sophie Williams,69,Polygender,March / Micra,Purple,204,467213,very good,31364.15
+893,Mike Taylor,58,Genderfluid,Maxima,Purple,101,524260,new,31331.35
+894,David Wilson,37,Polygender,Gloria,Blue,333,63626,very bad,45067.92
+895,Mike Brown,54,Polygender,Rnessa,Red,136,210626,new,9172.34
+896,John Davis,20,Polygender,Maxima,Yellow,278,953655,very good,20985.02
+897,Alex Brown,26,Genderfluid,Quest,Red,361,329854,very bad,5484.33
+898,Katie Smith,22,Non-binary,Gloria,Orange,301,787510,very bad,49363.31
+899,Jane Jones,59,Male,Maxima,Purple,113,801771,very bad,46684.72
+900,David Johnson,41,Genderfluid,Gloria,Blue,309,842983,very bad,16543.56
+901,Sophie Davis,39,Genderfluid,Altima,Green,356,384934,bad,32407.53
+902,Mike Miller,64,Polygender,Avenir,Silver,35,363196,bad,45343.5
+903,Laura Taylor,57,Polygender,March / Micra,Orange,183,119003,bad,34641.95
+904,Alex Miller,33,Non-binary,Juke,Purple,356,248719,very good,7863.47
+905,Mike Taylor,63,Genderfluid,Avenir,Purple,242,278792,bad,8164.82
+906,Jane Jones,26,Polygender,Avenir,Gray,238,904412,very bad,14664.8
+907,Chris Moore,63,Male,Altima,White,384,972767,bad,38013.24
+908,Emily Johnson,68,Polygender,Juke,Green,287,579252,bad,39396.68
+909,Chris Moore,55,Genderfluid,Juke,Silver,187,648779,bad,38855.7
+910,John Wilson,67,Non-binary,Juke,Yellow,252,605418,very good,17188.76
+911,Jane Moore,50,Polygender,Leaf,White,69,166072,very bad,25274.82
+912,Chris Davis,51,Male,Gloria,Orange,40,983977,very bad,32499.86
+913,Alex Davis,30,Female,Maxima,Gray,55,371882,bad,38770.97
+914,Mike Jones,51,Genderfluid,March / Micra,Gray,361,41711,bad,15192.63
+915,Sophie Davis,68,Genderfluid,Quest,Blue,38,588803,very good,22178.02
+916,Chris Moore,25,Polygender,Rnessa,Green,366,182458,bad,20234.58
+917,Emily Brown,45,Polygender,Gloria,Blue,250,38539,old,44315.01
+918,Emily Moore,65,Male,Leaf,White,188,633845,bad,15793.87
+919,Alex Smith,37,Female,Leaf,Gray,232,870229,old,8906.34
+920,,,,,,,,,
+921,Jane Jones,48,Genderfluid,March / Micra,White,171,26429,new,44450.82
+922,Mike Smith,28,Non-binary,March / Micra,Silver,397,6182,very good,49619.74
+923,Jane Williams,21,Male,Rnessa,Green,248,609487,very bad,25317.39
+924,Katie Williams,42,Female,March / Micra,Purple,212,631186,bad,6704.03
+925,Mike Moore,31,Non-binary,Pathfinder,Blue,134,95562,old,44550.69
+926,Mike Moore,26,Genderfluid,Juke,Purple,272,243503,bad,43542.74
+927,Jane Wilson,51,Genderfluid,Gloria,Purple,133,212274,old,40029.69
+928,Chris Jones,33,Polygender,Gloria,Green,187,846992,very good,30897.9
+929,Laura Davis,47,Male,Leaf,Black,89,478027,old,11755.12
+930,Sophie Davis,56,Non-binary,Altima,Black,283,409639,old,14933.42
+931,Jane Davis,60,Genderfluid,Leaf,Black,51,318691,new,29031.54
+932,Chris Brown,34,Male,Juke,Green,91,467538,bad,43571.8
+933,John Williams,53,Male,Avenir,White,95,376633,very good,45831.93
+934,Jane Brown,58,Male,Leaf,Black,315,409628,bad,13359.84
+935,Emily Jones,39,Non-binary,Altima,Blue,381,941178,new,14506.46
+936,David Taylor,19,Polygender,Rnessa,Blue,381,306278,very good,25904.21
+937,Alex Jones,55,Genderfluid,Leaf,Orange,317,109248,old,45127.48
+938,Alex Johnson,45,Female,Pathfinder,Red,292,764353,very bad,22972.32
+939,Emily Brown,23,Polygender,Rnessa,Gray,354,617459,old,40462.31
+940,John Wilson,49,Genderfluid,Maxima,Orange,335,448084,new,43456.32
+941,Laura Williams,20,Polygender,Pathfinder,Purple,370,654291,very good,34138.82
+942,David Johnson,48,Polygender,Gloria,Black,260,639439,very good,7757.05
+943,Laura Jones,31,Polygender,Rnessa,Silver,131,727216,bad,10313.18
+944,Jane Moore,67,Male,Gloria,Blue,152,256475,old,43672.34
+945,Katie Brown,22,Polygender,Juke,Orange,236,949002,new,31787.44
+946,Sophie Williams,56,Female,Quest,Gray,99,709232,old,33379.59
+947,,,,,,,,,
+948,Mike Williams,43,Polygender,Rnessa,Black,75,173816,bad,12789.03
+949,Alex Brown,63,Polygender,March / Micra,Orange,126,667382,bad,25572.44
+950,Chris Davis,59,Female,Leaf,Purple,56,317100,very good,49694.39
+951,Alex Wilson,37,Male,Altima,Orange,179,294798,new,43312.03
+952,Alex Smith,60,Female,Leaf,Silver,183,232625,new,22515.6
+953,,,,,,,,,
+954,Sophie Johnson,52,Female,Juke,Orange,223,537157,very good,7878.44
+955,Emily Brown,62,Female,Pathfinder,Red,326,362446,bad,35029.27
+956,David Brown,55,Male,Maxima,Green,337,240966,very good,17260.45
+957,Laura Brown,29,Genderfluid,March / Micra,Gray,212,158389,old,47563.41
+958,Alex Moore,59,Female,Juke,Yellow,130,386588,new,34184.4
+959,,,,,,,,,
+960,John Johnson,64,Non-binary,March / Micra,Black,139,349597,new,38818.14
+961,,,,,,,,,
+962,Mike Smith,51,Polygender,Maxima,Black,178,256981,very good,28934.17
+963,Laura Williams,55,Male,Avenir,Red,52,692575,very bad,33265.67
+964,Emily Smith,41,Female,Pathfinder,Silver,361,120971,very bad,14468.75
+965,Laura Davis,37,Non-binary,Rnessa,Silver,60,19124,bad,42937.06
+966,Chris Brown,60,Non-binary,Juke,Silver,334,299329,bad,28648.1
+967,Alex Smith,42,Non-binary,Avenir,Orange,152,680342,very good,18453.36
+968,,,,,,,,,
+969,Emily Johnson,46,Genderfluid,Altima,Purple,35,67275,very good,27971.26
+970,,,,,,,,,
+971,,,,,,,,,
+972,Katie Smith,33,Non-binary,Pathfinder,Silver,127,815756,very good,15172.86
+973,David Jones,49,Polygender,Gloria,Silver,182,553796,new,35881.85
+974,John Williams,57,Male,Avenir,White,88,414814,old,5559.23
+975,Sophie Williams,30,Polygender,Gloria,Green,119,935757,new,31357.9
+976,Chris Wilson,32,Genderfluid,Maxima,Red,21,784546,new,25584.87
+977,Chris Williams,18,Genderfluid,Altima,Green,358,764231,new,37124.36
+978,Mike Jones,25,Genderfluid,Gloria,Blue,196,754165,old,19497.6
+979,John Johnson,51,Polygender,Avenir,Yellow,361,714192,bad,7840.83
+980,Laura Wilson,58,Male,Rnessa,Purple,34,851171,very bad,45898.87
+981,Chris Moore,53,Genderfluid,Maxima,Purple,254,288184,very good,23241.74
+982,Laura Smith,57,Male,Quest,Yellow,100,989623,very good,11582.89
+983,Chris Brown,43,Male,Quest,Orange,88,625989,bad,30804.22
+984,John Taylor,28,Polygender,Pathfinder,Blue,112,368081,old,38325.17
+985,John Johnson,46,Non-binary,Leaf,Green,289,347410,very bad,10985.51
+986,John Miller,52,Genderfluid,Leaf,Green,365,922567,very good,36509.73
+987,David Williams,52,Female,Rnessa,Purple,86,958834,old,47043.42
+988,Mike Wilson,67,Genderfluid,Leaf,Black,84,265766,bad,40548.12
+989,Mike Taylor,63,Non-binary,Juke,Gray,86,823587,old,35036.45
+990,Emily Miller,48,Non-binary,Juke,Purple,356,959211,old,39214.47
+991,Alex Jones,30,Female,Leaf,Blue,175,315596,old,33300.16
+992,Laura Williams,47,Non-binary,Quest,Yellow,116,242519,very bad,33672.39
+993,David Brown,24,Polygender,Altima,Black,349,523979,old,9664.42
+994,Sophie Williams,53,Male,Gloria,Purple,281,919423,very good,22768.93
+995,Alex Brown,46,Male,Gloria,Silver,304,627653,very good,22224.68
+996,Chris Taylor,25,Male,Pathfinder,Red,266,676103,bad,40705.58
+997,Katie Smith,36,Female,Pathfinder,Black,347,786229,old,21977.6
+998,,,,,,,,,
+999,Chris Jones,18,Non-binary,Maxima,Silver,42,114996,very bad,10510.96
+1000,David Moore,60,Male,Maxima,Blue,258,542208,very good,40718.19
+1001,Alex Moore,57,Male,March / Micra,Black,7,927069,bad,31473.12
+1002,Emily Taylor,56,Non-binary,Maxima,Silver,359,677749,old,5157.44
+1003,David Smith,53,Genderfluid,Juke,Purple,300,71222,bad,36746.06
+1004,Alex Taylor,59,Non-binary,Gloria,Green,92,771539,new,28660.77
+1005,David Davis,64,Non-binary,Juke,Purple,286,392359,very good,11113.21
+1006,Mike Johnson,25,Genderfluid,Avenir,White,43,556427,very good,11461.35
+1007,Katie Williams,46,Non-binary,Altima,Orange,382,830210,very good,34694.78
+1008,,,,,,,,,
+1009,,,,,,,,,
+1010,Chris Smith,59,Female,Leaf,Silver,180,830258,very bad,36923.39
+1011,Chris Taylor,42,Male,Avenir,Blue,354,528455,old,19421.73
+1012,Sophie Jones,47,Non-binary,Quest,Red,381,295340,very bad,12739.15
+1013,Jane Jones,41,Non-binary,Rnessa,Gray,138,872975,new,29382.85
+1014,,,,,,,,,
+1015,Laura Davis,28,Non-binary,Gloria,White,74,160182,bad,46559.92
+1016,Sophie Moore,57,Male,Avenir,Green,169,164852,old,38419.37
+1017,Chris Smith,39,Polygender,Avenir,Black,3,518479,bad,19744.63
+1018,Jane Taylor,34,Male,Avenir,Yellow,234,617018,new,45737.54
+1019,Laura Jones,69,Genderfluid,Avenir,White,344,879989,old,17655.99
+1020,Katie Brown,19,Genderfluid,Quest,Gray,56,262442,very good,27042.43
+1021,Katie Smith,33,Non-binary,Quest,White,246,40281,old,43443.57
+1022,Chris Brown,59,Polygender,Pathfinder,Blue,66,478674,very good,43486.61
+1023,Emily Taylor,35,Genderfluid,Leaf,White,6,114227,bad,32035.55
+1024,Chris Taylor,25,Non-binary,Altima,Gray,369,146105,new,16151.01
+1025,John Davis,62,Genderfluid,Maxima,Black,237,414476,very bad,8532.2
+1026,David Smith,29,Polygender,Pathfinder,Gray,260,538359,new,28888.45
+1027,Chris Jones,49,Male,Avenir,Orange,46,932491,new,12543.14
+1028,Katie Miller,60,Female,Juke,Silver,36,173399,new,8317.66
+1029,Sophie Smith,51,Female,Gloria,White,59,976980,old,43640.01
+1030,Laura Miller,20,Female,Maxima,Gray,83,252661,very good,5610.85
+1031,Mike Davis,69,Genderfluid,Rnessa,Blue,334,234511,old,45512.18
+1032,David Wilson,61,Polygender,Pathfinder,Gray,359,432321,very bad,49302.35
+1033,Laura Smith,20,Female,Leaf,Orange,56,210148,very bad,35984.21
+1034,David Davis,26,Male,Rnessa,Orange,297,454626,very bad,41917.2
+1035,Alex Moore,61,Female,Altima,Blue,99,655773,old,30599.04
+1036,Jane Davis,67,Female,Maxima,Purple,202,299339,old,48779.54
+1037,Alex Moore,35,Non-binary,Maxima,Gray,197,102445,very bad,43576.95
+1038,Mike Johnson,51,Female,Rnessa,Gray,330,830665,new,45659.04
+1039,Mike Moore,58,Female,Pathfinder,Blue,296,846113,bad,47348.09
+1040,John Miller,42,Genderfluid,Maxima,Blue,346,206921,bad,27253.85
+1041,Katie Miller,63,Male,Maxima,Silver,243,905519,bad,49506.82
+1042,John Johnson,58,Male,Leaf,Green,367,392149,very bad,11739.3
+1043,Alex Williams,22,Non-binary,Altima,White,275,51957,bad,32815.31
+1044,Laura Williams,48,Female,Avenir,Gray,89,284382,new,19175.49
+1045,David Jones,20,Polygender,Leaf,White,318,721797,very good,30563.78
+1046,Sophie Smith,26,Polygender,Maxima,Yellow,323,621335,old,9292.41
+1047,Jane Wilson,45,Polygender,Gloria,Blue,184,812469,bad,46621.79
+1048,Laura Davis,47,Non-binary,Juke,Black,16,199768,very good,28085.63
+1049,Katie Smith,66,Genderfluid,Leaf,Red,32,370640,new,12858.67
+1050,Emily Jones,49,Polygender,Rnessa,Gray,11,213606,bad,42960.77
+1051,Jane Jones,28,Non-binary,Quest,Purple,70,806809,old,25330.22
+1052,,,,,,,,,
+1053,David Taylor,68,Genderfluid,Gloria,Gray,250,429445,new,14122.8
+1054,John Miller,38,Genderfluid,Rnessa,Orange,352,202936,bad,34290.08
+1055,Laura Smith,56,Genderfluid,Maxima,White,262,897509,bad,36873.4
+1056,Alex Taylor,56,Genderfluid,Rnessa,White,393,602863,very bad,14485.93
+1057,Mike Jones,62,Non-binary,Leaf,Purple,346,133192,bad,10084.05
+1058,,,,,,,,,
+1059,Alex Williams,30,Male,Leaf,Blue,241,198528,bad,42859.39
+1060,Katie Williams,18,Female,Quest,White,187,168973,bad,46603.27
+1061,Jane Jones,22,Male,Altima,White,364,729364,very bad,46739.78
+1062,Sophie Johnson,51,Genderfluid,Altima,Green,167,621863,old,33935.61
+1063,Mike Jones,52,Genderfluid,Rnessa,Orange,390,883701,new,6015.97
+1064,,,,,,,,,
+1065,David Miller,51,Polygender,Quest,Yellow,389,482123,very bad,29326.49
+1066,Jane Williams,55,Non-binary,Maxima,Silver,56,731036,very bad,38693.9
+1067,Katie Smith,56,Non-binary,Altima,Gray,69,584993,bad,14693.82
+1068,,,,,,,,,
+1069,Mike Williams,52,Male,Quest,Yellow,321,498466,old,22001.01
+1070,Laura Williams,21,Male,Pathfinder,Red,167,560303,bad,17302.79
+1071,Laura Johnson,29,Polygender,Altima,Silver,157,632523,very bad,19296.74
+1072,Jane Miller,66,Female,Quest,Yellow,289,632049,old,13067.15
+1073,Sophie Taylor,43,Polygender,Avenir,Orange,240,83413,very good,16849.09
+1074,Mike Davis,66,Polygender,Avenir,Orange,2,325592,bad,31071.39
+1075,John Smith,31,Genderfluid,Leaf,Purple,389,155132,bad,13151.31
+1076,Laura Jones,62,Female,Rnessa,Blue,241,786595,very good,48642.7
+1077,Laura Davis,41,Female,Rnessa,Green,184,764105,bad,17266.44
+1078,Katie Smith,21,Female,Avenir,Purple,375,762963,very good,46549.76
+1079,Emily Taylor,28,Female,Avenir,Yellow,387,724387,very bad,39835.9
+1080,Emily Williams,39,Polygender,Leaf,Black,71,717104,very bad,45987.76
+1081,Katie Johnson,25,Polygender,Gloria,Black,12,772382,very good,41641.11
+1082,,,,,,,,,
+1083,Emily Davis,50,Genderfluid,Quest,Blue,376,77207,very good,8292.98
+1084,Katie Williams,33,Polygender,Maxima,Silver,24,822563,new,21090.56
+1085,Jane Johnson,38,Male,Gloria,Blue,210,151784,very good,23676.04
+1086,Katie Wilson,30,Polygender,Rnessa,Silver,67,82430,old,20409.26
+1087,Chris Wilson,50,Non-binary,Quest,Red,377,8474,old,17460.32
+1088,John Taylor,27,Non-binary,Quest,Silver,145,505851,bad,21877.64
+1089,Emily Brown,23,Female,Rnessa,Red,327,17052,very good,10349.03
+1090,Mike Moore,42,Male,Quest,Black,274,722425,bad,16491.02
+1091,Jane Smith,66,Genderfluid,Gloria,Yellow,141,735390,bad,48420.84
+1092,Chris Taylor,46,Non-binary,Gloria,White,255,677802,very bad,48274.97
+1093,Jane Moore,39,Genderfluid,Altima,Red,139,776390,new,8768.76
+1094,Alex Williams,39,Polygender,Juke,Black,39,667520,old,20565.02
+1095,Emily Taylor,65,Female,Leaf,Silver,389,139248,very good,6678.81
+1096,Alex Moore,64,Genderfluid,Pathfinder,Black,309,525879,new,11469.14
+1097,Chris Smith,31,Female,Gloria,Green,251,182705,old,13212.44
+1098,Katie Taylor,66,Genderfluid,Gloria,Orange,100,257012,very bad,17855.35
+1099,Alex Williams,32,Genderfluid,Pathfinder,Black,69,179550,new,34724.49
+1100,David Wilson,24,Male,Altima,Yellow,250,116850,very good,46982.46
+1101,Alex Wilson,50,Genderfluid,Maxima,Gray,112,956621,new,44203.69
+1102,,,,,,,,,
+1103,Alex Johnson,51,Female,March / Micra,Red,113,523106,old,46105.92
+1104,David Jones,35,Polygender,Gloria,Blue,351,64655,very bad,19509.52
+1105,David Brown,38,Genderfluid,Altima,Green,151,436602,very bad,30742.42
+1106,Laura Williams,20,Polygender,Altima,Red,382,241893,new,24471.05
+1107,Emily Jones,43,Male,Gloria,Gray,338,365125,bad,22712.95
+1108,Laura Taylor,57,Polygender,Leaf,Green,266,937863,very good,18793.97
+1109,Laura Davis,63,Non-binary,March / Micra,Orange,44,673838,very good,47725.38
+1110,David Smith,48,Non-binary,Gloria,Red,152,896285,very good,24470.7
+1111,Sophie Taylor,42,Polygender,Quest,Blue,393,422349,very bad,8108.83
+1112,Alex Davis,59,Non-binary,Gloria,White,210,408447,very good,48858.78
+1113,Emily Moore,68,Male,Rnessa,Gray,170,272308,old,14585.45
+1114,David Williams,44,Non-binary,Rnessa,White,233,589330,very bad,21214.34
+1115,Katie Johnson,65,Polygender,Gloria,Purple,170,266450,new,19361.3
+1116,Jane Miller,67,Male,Juke,Silver,75,545617,new,12221.83
+1117,Mike Miller,55,Non-binary,March / Micra,Black,248,836827,very bad,11550.21
+1118,Chris Miller,55,Male,March / Micra,Red,19,104401,very bad,25463.12
+1119,David Moore,46,Genderfluid,Pathfinder,Orange,39,609420,new,31517.57
+1120,Emily Wilson,47,Non-binary,Leaf,Yellow,216,602990,bad,23618.74
+1121,Laura Johnson,27,Male,Maxima,Gray,148,315189,bad,7557.95
+1122,Sophie Jones,35,Polygender,Maxima,Blue,336,609048,very good,45031.73
+1123,Laura Taylor,20,Female,Quest,Yellow,20,233374,old,22052.55
+1124,Katie Brown,38,Female,Avenir,Gray,11,607085,very bad,14027.83
+1125,Jane Johnson,48,Male,Leaf,Yellow,121,424113,bad,32921.73
+1126,John Johnson,48,Female,Rnessa,Silver,158,353798,bad,49185.64
+1127,Jane Davis,40,Genderfluid,Rnessa,Yellow,82,474342,bad,46178.84
+1128,Jane Johnson,27,Non-binary,Altima,Green,361,794658,bad,48931.65
+1129,Sophie Davis,51,Female,Avenir,Yellow,292,381889,old,44653.61
+1130,Jane Moore,38,Male,Maxima,Purple,256,125103,very bad,31901.13
+1131,Jane Williams,42,Genderfluid,Maxima,Green,362,605166,old,23712.24
+1132,Alex Johnson,54,Polygender,March / Micra,Purple,338,239422,bad,24896.89
+1133,Sophie Williams,53,Genderfluid,Avenir,Red,397,85886,new,43360
+1134,Emily Williams,63,Male,Pathfinder,Silver,85,343520,very good,21206.39
+1135,Katie Miller,53,Female,Juke,Blue,277,17219,very bad,40310.02
+1136,John Brown,62,Non-binary,Maxima,Purple,196,533802,bad,45021.44
+1137,Katie Jones,38,Genderfluid,Juke,Yellow,337,341248,bad,9669.01
+1138,Sophie Johnson,20,Female,Avenir,White,174,763492,very good,33328.74
+1139,John Moore,66,Female,Rnessa,Green,199,114023,old,20295.32
+1140,,,,,,,,,
+1141,Jane Davis,54,Female,Altima,Silver,285,601461,old,30387.62
+1142,John Smith,30,Non-binary,Avenir,Silver,260,369559,very good,49728.9
+1143,John Miller,34,Genderfluid,March / Micra,Silver,185,280367,very good,41052.35
+1144,John Wilson,30,Female,March / Micra,Black,343,951029,very good,21342.23
+1145,Katie Johnson,50,Polygender,Leaf,Gray,103,730876,very good,31137.12
+1146,Katie Smith,49,Polygender,Pathfinder,Red,288,100476,new,38977.67
+1147,Chris Miller,30,Genderfluid,Leaf,Yellow,351,540991,new,6401.81
+1148,,,,,,,,,
+1149,Katie Williams,28,Polygender,March / Micra,Yellow,365,596998,very bad,8813.03
+1150,,,,,,,,,
+1151,John Wilson,43,Genderfluid,Leaf,Red,207,58282,new,36313.06
+1152,Chris Williams,65,Genderfluid,Leaf,Gray,381,391399,old,19197.52
+1153,Mike Brown,66,Polygender,Quest,Purple,273,76486,old,23162.35
+1154,Jane Miller,54,Male,Pathfinder,Orange,284,97985,old,41117.1
+1155,,,,,,,,,
+1156,Mike Moore,26,Polygender,Pathfinder,Purple,126,833569,very good,47470.36
+1157,Alex Miller,69,Male,Altima,Red,202,794244,new,12268.55
+1158,Laura Miller,45,Female,Quest,Blue,291,286434,very good,15059.59
+1159,Laura Brown,69,Female,Pathfinder,Green,244,535136,very good,28247.93
+1160,Laura Moore,42,Polygender,Pathfinder,Green,231,589880,bad,37166.91
+1161,Chris Williams,31,Male,Gloria,Silver,323,294395,old,44122.06
+1162,John Wilson,21,Male,Avenir,Red,69,302615,very good,47053.06
+1163,John Miller,32,Female,March / Micra,Purple,263,283424,bad,16265.97
+1164,John Wilson,40,Non-binary,Pathfinder,Blue,217,542045,old,43301.22
+1165,Chris Davis,18,Polygender,Pathfinder,Green,209,599401,new,25105.78
+1166,Mike Miller,57,Non-binary,Maxima,Red,71,475882,old,39333.27
+1167,David Taylor,68,Non-binary,Rnessa,Blue,1,19940,old,24582.09
+1168,David Miller,43,Non-binary,Quest,Green,336,76042,new,32437.96
+1169,Chris Johnson,55,Male,Leaf,Black,167,911590,very bad,31352.24
+1170,John Davis,37,Male,Avenir,White,271,363722,old,32583.88
+1171,,,,,,,,,
+1172,Emily Wilson,22,Female,Quest,Gray,324,941288,new,14798.72
+1173,Jane Wilson,43,Male,Rnessa,Green,227,320508,old,16195.88
+1174,David Williams,23,Genderfluid,Rnessa,Purple,4,429639,very bad,9324.91
+1175,Laura Smith,44,Genderfluid,Quest,White,379,230123,new,12369.46
+1176,Mike Moore,18,Male,March / Micra,Purple,297,485642,new,38120.37
+1177,Katie Williams,33,Male,Maxima,Blue,182,446603,old,43385.7
+1178,Chris Wilson,63,Non-binary,Avenir,Blue,302,799042,new,39371.73
+1179,Sophie Johnson,57,Polygender,Leaf,Purple,304,337697,very bad,37075.94
+1180,Chris Johnson,61,Polygender,Gloria,Blue,277,449333,very good,11603.11
+1181,Jane Jones,51,Polygender,March / Micra,White,382,406388,very good,15475.62
+1182,Laura Moore,19,Genderfluid,Pathfinder,Silver,281,706192,very good,29343.34
+1183,Alex Smith,52,Male,Maxima,White,339,718822,old,19434.38
+1184,John Johnson,42,Polygender,Quest,Yellow,18,711419,very bad,28513.72
+1185,Sophie Miller,49,Female,Leaf,Purple,307,257591,very bad,31676.47
+1186,Katie Jones,43,Polygender,Juke,Orange,55,202060,bad,49785.67
+1187,David Johnson,41,Polygender,March / Micra,Black,288,379309,very bad,35157.91
+1188,Mike Moore,33,Male,Rnessa,Black,234,65407,very good,38216.02
+1189,Jane Miller,19,Polygender,Quest,Silver,381,232616,bad,44255.47
+1190,Laura Brown,57,Non-binary,Gloria,Black,167,551109,very bad,25297.81
+1191,Laura Moore,65,Genderfluid,Avenir,Gray,130,186181,very bad,27633.93
+1192,Katie Jones,42,Polygender,March / Micra,Orange,392,191326,new,11872.97
+1193,,,,,,,,,
+1194,Sophie Taylor,24,Male,Leaf,Orange,153,120245,very bad,24118.59
+1195,David Wilson,59,Male,Gloria,Black,68,418156,very bad,28855.12
+1196,Mike Taylor,23,Male,Altima,Yellow,91,397715,old,8387.3
+1197,Emily Jones,30,Polygender,Maxima,White,328,178778,very bad,16953.42
+1198,David Johnson,36,Genderfluid,Pathfinder,White,90,990885,old,37685.18
+1199,Laura Taylor,32,Polygender,Quest,Purple,341,37924,very bad,9645.96
+1200,Laura Miller,21,Male,Avenir,Purple,173,364947,old,36614.28
+1201,Katie Taylor,42,Non-binary,Rnessa,Green,378,141521,bad,23862.96
+1202,Alex Smith,28,Male,Rnessa,Silver,224,941122,very good,5696.62
+1203,Mike Taylor,26,Male,Avenir,White,287,699941,old,6634.91
+1204,Katie Smith,59,Male,Pathfinder,Silver,113,309251,new,27147.76
+1205,Mike Davis,23,Male,Gloria,Orange,353,379843,very bad,13644.82
+1206,Chris Jones,22,Genderfluid,Maxima,Green,13,308776,bad,29497.25
+1207,Alex Johnson,61,Male,Maxima,Black,349,465488,very bad,32164.14
+1208,David Moore,20,Genderfluid,Rnessa,Silver,237,413587,old,18520.26
+1209,Katie Brown,62,Non-binary,Pathfinder,Yellow,206,431662,bad,27010.41
+1210,Sophie Miller,62,Non-binary,Gloria,Red,317,818297,very good,40022.29
+1211,,,,,,,,,
+1212,Jane Davis,62,Female,Avenir,Gray,296,849114,very bad,8747.53
+1213,,,,,,,,,
+1214,David Davis,69,Female,Gloria,Silver,231,19352,new,29548.24
+1215,Jane Miller,43,Male,Altima,White,316,972860,new,30833.38
+1216,Katie Davis,43,Non-binary,Gloria,Silver,121,129903,very bad,37026
+1217,Chris Moore,32,Non-binary,Altima,Yellow,54,224852,new,31838.79
+1218,Alex Miller,57,Non-binary,Avenir,Red,52,332663,new,47764.78
+1219,,,,,,,,,
+1220,Sophie Davis,31,Female,Pathfinder,White,319,865909,old,44300.41
+1221,John Smith,28,Non-binary,Leaf,Red,345,976486,new,11983.37
+1222,,,,,,,,,
+1223,Alex Brown,47,Female,March / Micra,Black,351,26910,very bad,5524.43
+1224,Chris Jones,46,Female,Quest,Red,126,661825,new,28294.19
+1225,,,,,,,,,
+1226,,,,,,,,,
+1227,Katie Miller,22,Genderfluid,Pathfinder,Gray,354,164258,new,40548.85
+1228,Alex Miller,57,Non-binary,Quest,Blue,104,35929,old,47012.86
+1229,Jane Williams,25,Female,Altima,Orange,203,543630,old,8176.97
+1230,Jane Smith,41,Polygender,Pathfinder,White,310,947596,new,17019.22
+1231,Jane Moore,34,Genderfluid,March / Micra,Purple,361,358883,new,21798.44
+1232,Emily Brown,26,Male,Rnessa,White,239,492736,new,22398.12
+1233,,,,,,,,,
+1234,Mike Davis,36,Polygender,Maxima,Green,128,660161,very bad,32246.38
+1235,Laura Taylor,53,Polygender,Quest,Gray,272,916667,bad,27423.65
+1236,David Smith,52,Female,Juke,Gray,394,237033,old,39313.65
+1237,John Williams,69,Male,Rnessa,Red,383,587908,very good,36512.46
+1238,,,,,,,,,
+1239,Chris Smith,69,Female,Quest,Purple,382,333510,old,21791.12
+1240,Katie Miller,64,Male,Maxima,Yellow,381,538405,new,9873.44
+1241,Chris Williams,27,Genderfluid,Pathfinder,Green,162,915752,very good,9681.22
+1242,Katie Taylor,60,Genderfluid,Gloria,White,7,852925,bad,32474.66
+1243,Chris Brown,50,Male,Juke,Black,196,235703,new,13086.95
+1244,David Miller,24,Non-binary,Leaf,White,78,872140,new,28337.62
+1245,Jane Williams,21,Genderfluid,Leaf,Orange,25,908283,very good,15840.82
+1246,Laura Taylor,51,Genderfluid,Leaf,Orange,246,377797,old,26617.85
+1247,Mike Williams,35,Genderfluid,Pathfinder,Yellow,217,734106,very good,7654.25
+1248,Chris Brown,62,Polygender,Leaf,Purple,101,37032,very good,32180.97
+1249,Chris Johnson,66,Male,Avenir,White,293,845437,very bad,29459.02
+1250,Alex Miller,31,Female,Maxima,Yellow,347,593260,old,19929.68
+1251,Emily Williams,32,Genderfluid,March / Micra,Yellow,229,425569,old,27611.91
+1252,Jane Brown,61,Female,Leaf,Blue,184,708816,old,29339.28
+1253,David Johnson,50,Genderfluid,Juke,Blue,204,788991,very good,36005.56
+1254,John Wilson,18,Non-binary,Altima,Orange,264,277362,new,13149.08
+1255,John Taylor,24,Female,March / Micra,Blue,354,190064,old,16027.34
+1256,David Moore,25,Polygender,Altima,Yellow,46,591063,old,17286.24
+1257,John Johnson,66,Non-binary,Rnessa,Green,94,980189,old,33200.06
+1258,Emily Moore,33,Female,March / Micra,Yellow,142,672911,very bad,30665.43
+1259,David Taylor,34,Polygender,Gloria,Gray,270,29349,new,38409.36
+1260,Laura Brown,49,Female,Maxima,Blue,337,513927,new,8649.3
+1261,Katie Taylor,37,Female,Avenir,Black,18,586389,very good,40863.61
+1262,Chris Moore,62,Non-binary,Pathfinder,Black,385,710614,new,11053.65
+1263,Alex Moore,47,Non-binary,Maxima,Blue,48,746773,very bad,21635.66
+1264,Alex Taylor,61,Polygender,Quest,Red,69,616810,very bad,20818.84
+1265,Laura Taylor,57,Non-binary,Leaf,Yellow,122,984881,old,31517.99
+1266,,,,,,,,,
+1267,John Johnson,65,Genderfluid,March / Micra,Green,219,722972,old,13469.14
+1268,Chris Jones,39,Genderfluid,Leaf,Silver,7,645655,very bad,15896.93
+1269,Mike Taylor,42,Female,Juke,Blue,193,445239,old,36360.44
+1270,Emily Miller,41,Non-binary,Altima,White,105,409282,bad,41360.62
+1271,Sophie Wilson,32,Female,March / Micra,Blue,353,329721,very good,42804.01
+1272,Katie Williams,48,Non-binary,Quest,Yellow,142,844242,old,49962.99
+1273,Alex Miller,31,Female,Pathfinder,Silver,6,774044,new,18105.14
+1274,Emily Moore,44,Non-binary,Rnessa,White,377,716374,very good,17934.5
+1275,,,,,,,,,
+1276,Alex Wilson,53,Male,Gloria,Green,350,288945,very good,33480.74
+1277,,,,,,,,,
+1278,Sophie Wilson,46,Non-binary,Rnessa,Blue,76,226885,old,48576.42
+1279,Laura Taylor,42,Non-binary,Leaf,Orange,111,727855,old,11856.7
+1280,Alex Jones,31,Genderfluid,Juke,Purple,161,298556,bad,14993.97
+1281,David Miller,61,Male,Maxima,Yellow,94,369138,bad,23409.47
+1282,David Johnson,28,Male,Altima,Green,33,996826,very good,14092.34
+1283,Alex Taylor,27,Non-binary,Quest,Gray,87,100680,new,9940.05
+1284,Laura Taylor,68,Genderfluid,Leaf,Green,175,51992,very bad,22358.08
+1285,Jane Miller,27,Female,Leaf,Red,180,355352,very bad,9339.38
+1286,Mike Miller,57,Polygender,Altima,Gray,280,409909,very bad,40507.87
+1287,Chris Johnson,38,Female,Leaf,Green,11,757092,old,26368.21
+1288,Mike Wilson,47,Female,Juke,Blue,205,408530,very bad,7849.48
+1289,John Moore,39,Male,March / Micra,Gray,217,270157,very good,48217.42
+1290,Chris Davis,52,Male,Leaf,Yellow,374,540144,old,34122.04
+1291,Sophie Johnson,25,Female,Juke,Black,363,299991,new,21377.63
+1292,Sophie Davis,53,Polygender,Rnessa,Red,373,832789,new,49726.57
+1293,Jane Taylor,61,Female,Gloria,Black,365,521886,very bad,27519.49
+1294,Sophie Davis,48,Male,March / Micra,White,51,640744,new,34019.61
+1295,Sophie Smith,60,Genderfluid,Altima,Orange,92,601142,bad,23052.34
+1296,Chris Smith,67,Male,March / Micra,Purple,72,167244,bad,45272.39
+1297,David Johnson,69,Female,Maxima,Gray,134,492826,bad,49856.44
+1298,Emily Johnson,50,Non-binary,Maxima,Purple,57,188221,very good,26685.63
+1299,John Moore,50,Male,Quest,White,336,759879,bad,17208.46
+1300,Mike Johnson,54,Polygender,March / Micra,Blue,374,197884,very good,26022.79
+1301,Emily Taylor,52,Non-binary,March / Micra,Green,107,964020,very bad,36920.64
+1302,Emily Smith,50,Non-binary,Altima,Yellow,100,970480,old,40938.32
+1303,Chris Williams,49,Polygender,Gloria,Purple,7,966370,new,22384.35
+1304,Jane Brown,36,Polygender,Juke,Orange,295,515719,old,49580.9
+1305,Mike Smith,22,Non-binary,Gloria,White,335,435178,old,6143.05
+1306,Mike Jones,19,Polygender,Maxima,Gray,368,774788,very good,38714.04
+1307,John Jones,40,Non-binary,Quest,Gray,271,533615,old,11556.15
+1308,,,,,,,,,
+1309,Jane Wilson,43,Polygender,Juke,Black,353,773402,very good,13526.75
+1310,,,,,,,,,
+1311,Mike Davis,43,Male,March / Micra,Gray,284,237697,bad,18989.75
+1312,Mike Johnson,25,Polygender,Leaf,White,166,382562,old,41275.64
+1313,Jane Taylor,31,Polygender,Juke,Green,161,269190,old,30733.65
+1314,John Johnson,44,Polygender,Maxima,Orange,247,824828,very good,24968.47
+1315,Emily Wilson,48,Polygender,Pathfinder,Purple,327,829551,bad,29556
+1316,Laura Taylor,40,Non-binary,Leaf,Yellow,280,869397,very bad,16211.83
+1317,Alex Smith,54,Female,Juke,Silver,288,390913,very good,12828.24
+1318,David Miller,22,Female,Maxima,Silver,185,188716,bad,49713.32
+1319,Alex Brown,57,Genderfluid,March / Micra,Yellow,177,342105,new,14034.31
+1320,Laura Smith,69,Polygender,Quest,Blue,373,830232,very bad,13429.51
+1321,Jane Jones,57,Female,Rnessa,Orange,348,57393,very good,18521.77
+1322,David Davis,51,Female,Pathfinder,Black,173,866249,very bad,26642.46
+1323,Laura Johnson,18,Male,Pathfinder,Blue,354,188804,new,16957.02
+1324,Alex Jones,66,Male,Juke,Silver,376,121255,very good,18945.44
+1325,Sophie Brown,20,Polygender,Maxima,Orange,359,666503,old,42770.43
+1326,David Taylor,49,Male,March / Micra,White,334,333243,very bad,6512.39
+1327,Katie Taylor,19,Male,Quest,Red,308,902697,bad,39391.69
+1328,Sophie Williams,47,Male,Pathfinder,Green,343,522875,very bad,23770
+1329,Mike Davis,21,Male,March / Micra,Orange,148,286255,bad,30470.09
+1330,Sophie Johnson,21,Polygender,Pathfinder,Black,294,52990,new,14015.73
+1331,David Wilson,58,Male,Gloria,Yellow,321,394776,new,17920.6
+1332,Katie Davis,33,Genderfluid,Pathfinder,White,249,317351,very bad,43513.48
+1333,Mike Taylor,28,Non-binary,Pathfinder,Orange,335,212673,very bad,6192.51
+1334,Alex Jones,65,Non-binary,Juke,White,169,108671,new,42999.02
+1335,Katie Jones,19,Polygender,Leaf,Blue,139,756583,bad,19342.85
+1336,John Moore,27,Male,Altima,Silver,57,494201,very good,30888.5
+1337,Laura Jones,64,Male,Maxima,Black,375,304018,bad,8593.55
+1338,Katie Davis,68,Polygender,Juke,Gray,195,387612,very bad,24140.99
+1339,David Moore,38,Genderfluid,Altima,Green,214,457180,new,15025.58
+1340,Sophie Smith,48,Polygender,Quest,Silver,219,177927,very bad,9446.81
+1341,Alex Williams,24,Genderfluid,Leaf,Green,243,702283,old,48567.06
+1342,Katie Moore,54,Female,Gloria,Orange,199,115347,new,41762.08
+1343,,,,,,,,,
+1344,Emily Williams,53,Polygender,Altima,Red,108,467626,old,28127.16
+1345,John Smith,58,Polygender,Gloria,Black,259,224667,bad,12940.75
+1346,Sophie Davis,50,Female,Juke,White,46,333584,bad,42148.88
+1347,David Jones,50,Female,Leaf,Silver,171,824475,bad,22848.44
+1348,Mike Miller,24,Polygender,Altima,Black,357,743466,old,21008.09
+1349,David Taylor,58,Female,Juke,Black,34,839280,very bad,47352.8
+1350,Jane Wilson,34,Non-binary,Pathfinder,Green,321,78605,new,44831.89
+1351,John Wilson,54,Female,March / Micra,Green,259,340188,very good,41038.67
+1352,,,,,,,,,
+1353,David Williams,65,Genderfluid,March / Micra,Gray,121,715783,new,23182.02
+1354,Alex Davis,40,Non-binary,Gloria,Green,242,624306,new,40241.97
+1355,Emily Taylor,27,Polygender,Altima,Orange,245,590516,new,41349.08
+1356,David Williams,36,Male,Avenir,Purple,60,206569,old,27961.01
+1357,,,,,,,,,
+1358,Laura Wilson,21,Genderfluid,Leaf,White,224,101759,bad,5515.85
+1359,,,,,,,,,
+1360,Sophie Miller,52,Polygender,Avenir,Yellow,13,346153,new,28153.9
+1361,David Wilson,19,Non-binary,Leaf,Blue,259,325968,very good,16207.12
+1362,Katie Wilson,67,Genderfluid,Altima,White,293,333978,very bad,32634.09
+1363,Katie Jones,52,Non-binary,Leaf,Blue,271,484965,very good,44291.64
+1364,Jane Brown,26,Non-binary,March / Micra,Purple,286,206078,very good,18431.86
+1365,Emily Jones,62,Male,Quest,Gray,192,826001,new,26037.2
+1366,,,,,,,,,
+1367,Laura Smith,61,Genderfluid,March / Micra,Orange,33,318012,bad,48913.65
+1368,Mike Moore,52,Non-binary,Quest,Red,2,863048,new,9072.99
+1369,Mike Smith,51,Non-binary,Maxima,Silver,87,625882,new,17173.74
+1370,Chris Moore,38,Polygender,Rnessa,Blue,271,708998,bad,48374.73
+1371,Mike Wilson,55,Polygender,Juke,Red,118,177064,bad,13950.03
+1372,,,,,,,,,
+1373,,,,,,,,,
+1374,David Moore,37,Male,Gloria,Yellow,397,695171,old,34814.12
+1375,Katie Miller,52,Female,March / Micra,Orange,155,608953,bad,7463.53
+1376,,,,,,,,,
+1377,Mike Moore,64,Genderfluid,Quest,Blue,20,635557,bad,35412.46
+1378,Emily Williams,40,Non-binary,Altima,Purple,75,521210,old,44775.31
+1379,David Taylor,46,Non-binary,Leaf,White,234,916214,new,41208.81
+1380,Jane Williams,23,Male,Leaf,Gray,240,618182,very bad,34168.1
+1381,,,,,,,,,
+1382,Katie Davis,44,Non-binary,Quest,Orange,65,875029,very bad,39662.38
+1383,Mike Taylor,62,Genderfluid,Pathfinder,Orange,321,753807,new,11479.61
+1384,Laura Miller,34,Genderfluid,Quest,Black,9,311368,new,30703.48
+1385,Chris Smith,68,Male,Maxima,Gray,345,9687,bad,10042.14
+1386,Emily Moore,68,Female,Gloria,Blue,90,500296,old,28476.77
+1387,David Taylor,57,Male,Maxima,White,7,42252,very good,39655.95
+1388,Chris Smith,55,Polygender,Gloria,Blue,54,314476,very bad,46270.77
+1389,Chris Moore,18,Male,Leaf,Green,85,246628,bad,39937.8
+1390,Emily Johnson,67,Polygender,Maxima,Gray,343,35073,very bad,24199.98
+1391,Mike Jones,28,Genderfluid,Avenir,Red,70,196774,old,46191.51
+1392,Alex Smith,25,Female,March / Micra,Silver,98,160011,bad,43018.32
+1393,Sophie Moore,66,Non-binary,Pathfinder,Red,367,661623,new,27555.44
+1394,,,,,,,,,
+1395,Chris Miller,68,Polygender,Pathfinder,Purple,158,868616,old,23025.01
+1396,Alex Johnson,24,Male,Quest,White,244,628835,very bad,14796.12
+1397,Sophie Davis,47,Genderfluid,Quest,Purple,334,203609,new,30533.76
+1398,Mike Miller,66,Non-binary,Rnessa,Blue,167,450151,old,17670.21
+1399,John Miller,63,Male,March / Micra,Green,5,741515,old,49655.06
+1400,Mike Wilson,66,Female,Gloria,Silver,146,293355,new,16218.35
+1401,Laura Wilson,43,Polygender,Pathfinder,Silver,45,989843,very bad,11761.42
+1402,Sophie Taylor,62,Female,Gloria,Silver,137,514634,very good,41286.73
+1403,John Moore,55,Female,Leaf,Purple,312,153974,very good,29085.72
+1404,Sophie Williams,43,Female,Altima,Red,306,46886,very good,33328.21
+1405,Laura Johnson,21,Polygender,Avenir,White,10,972773,very good,10891.12
+1406,Mike Brown,29,Non-binary,Avenir,Red,18,552748,old,46145.07
+1407,Sophie Jones,57,Female,Maxima,Silver,336,520460,very bad,26019.17
+1408,David Johnson,37,Genderfluid,Gloria,Green,28,184474,bad,34567.48
+1409,Laura Davis,61,Female,Avenir,Red,290,512033,old,8525.98
+1410,Emily Williams,21,Male,Leaf,Yellow,353,313217,very bad,48464.46
+1411,Laura Wilson,21,Genderfluid,Leaf,Yellow,46,175406,very bad,34309.15
+1412,John Davis,44,Non-binary,Gloria,Purple,98,294268,very good,34662.27
+1413,Jane Brown,69,Genderfluid,Rnessa,Green,190,394445,bad,10375.33
+1414,Alex Davis,31,Non-binary,Rnessa,Black,156,389155,bad,25170.98
+1415,John Smith,65,Polygender,Pathfinder,Red,374,722787,bad,18615.24
+1416,Emily Davis,64,Polygender,Quest,Green,152,425685,very bad,42598.37
+1417,Katie Johnson,54,Polygender,Pathfinder,White,322,970262,bad,19683.28
+1418,David Miller,61,Genderfluid,Maxima,Red,314,423714,very bad,24712.36
+1419,,,,,,,,,
+1420,Emily Brown,54,Female,Avenir,Gray,21,534597,bad,43215.61
+1421,Katie Smith,58,Genderfluid,Altima,Purple,133,741306,bad,25767.9
+1422,John Miller,24,Non-binary,Leaf,Gray,308,176474,very good,34623.7
+1423,,,,,,,,,
+1424,John Moore,29,Non-binary,Rnessa,Purple,379,97467,very good,20106.17
+1425,,,,,,,,,
+1426,Jane Smith,37,Male,Juke,Yellow,249,479669,new,23321.59
+1427,Sophie Jones,19,Female,Rnessa,Silver,168,967289,bad,44155.01
+1428,John Miller,18,Genderfluid,Rnessa,Red,102,177292,old,27609.61
+1429,John Miller,19,Polygender,Gloria,Green,40,711067,bad,15768.94
+1430,John Davis,63,Polygender,March / Micra,Yellow,331,721165,bad,37400.94
+1431,Katie Wilson,60,Male,Altima,Orange,263,343676,new,19445.54
+1432,Mike Williams,60,Genderfluid,Rnessa,Black,385,244362,bad,49244.18
+1433,Chris Moore,19,Genderfluid,Altima,Blue,383,842629,bad,17754.3
+1434,Mike Taylor,20,Polygender,March / Micra,Yellow,180,204014,old,23832.03
+1435,Chris Taylor,54,Female,Rnessa,White,262,481745,bad,49510.76
+1436,John Moore,55,Polygender,Avenir,White,232,901014,bad,9357.31
+1437,Sophie Smith,33,Female,Leaf,White,327,554765,very good,9800.28
+1438,Emily Davis,49,Female,Gloria,Blue,272,582385,old,8026.72
+1439,Mike Jones,46,Non-binary,Altima,Blue,323,408066,old,22390.53
+1440,Katie Jones,32,Polygender,Juke,Silver,393,679044,very good,43661.13
+1441,Emily Williams,21,Male,Juke,Gray,120,217997,new,46342.49
+1442,Jane Williams,37,Male,Avenir,Yellow,248,564876,bad,6614.68
+1443,Jane Taylor,19,Polygender,Leaf,Gray,263,613433,new,36400.96
+1444,Chris Miller,54,Genderfluid,Gloria,Black,5,187911,bad,26424.39
+1445,Katie Moore,22,Female,Avenir,Red,60,830861,old,31557.65
+1446,Emily Moore,35,Male,Gloria,Yellow,206,109858,new,46374.13
+1447,Alex Wilson,33,Non-binary,Leaf,Black,89,853287,very good,15029.93
+1448,Mike Moore,18,Male,Rnessa,Silver,25,856085,very bad,32865.41
+1449,Chris Williams,55,Non-binary,Maxima,Black,13,460174,bad,5821.97
+1450,Katie Williams,63,Polygender,Pathfinder,Yellow,232,708800,bad,44383.14
+1451,Sophie Smith,28,Female,Rnessa,Red,315,258486,old,20158.92
+1452,Alex Brown,36,Male,Avenir,Blue,361,95072,bad,44258.08
+1453,Jane Miller,31,Female,March / Micra,Yellow,122,75425,very bad,19620.13
+1454,Alex Davis,62,Male,March / Micra,Red,225,509700,bad,20605.12
+1455,Chris Williams,47,Male,Leaf,Green,220,384263,very good,23043.15
+1456,Alex Davis,32,Non-binary,Leaf,Gray,281,264867,old,6085.63
+1457,Chris Smith,39,Male,Gloria,Blue,18,17600,bad,17986.2
+1458,Alex Williams,50,Male,Pathfinder,Orange,327,353578,very good,11765.89
+1459,Laura Johnson,43,Non-binary,Altima,Purple,385,227582,bad,45412.56
+1460,Chris Brown,29,Non-binary,Pathfinder,Gray,266,444363,very good,27968.57
+1461,,,,,,,,,
+1462,Alex Jones,50,Male,Gloria,Green,235,83053,very bad,6597.43
+1463,Sophie Wilson,55,Female,Gloria,Red,299,727190,very good,36476.66
+1464,Chris Moore,44,Genderfluid,Gloria,Black,107,808429,bad,15215.36
+1465,,,,,,,,,
+1466,Katie Williams,66,Male,Maxima,Green,389,173940,old,8980.32
+1467,Alex Brown,45,Female,Rnessa,White,70,874607,very bad,26635.19
+1468,Laura Taylor,60,Male,Rnessa,Orange,101,728521,very bad,18330.27
+1469,Laura Johnson,66,Female,Gloria,Green,197,939144,new,35448.88
+1470,Laura Johnson,32,Male,Quest,Silver,132,431886,bad,46909.2
+1471,Emily Jones,20,Male,Avenir,Red,239,824301,old,5280.75
+1472,Jane Moore,38,Female,March / Micra,Red,92,765221,old,40651.86
+1473,Sophie Taylor,67,Polygender,Quest,White,169,122068,new,20535.05
+1474,Sophie Jones,69,Genderfluid,Avenir,Gray,284,983172,very bad,16108.44
+1475,Chris Davis,54,Male,Altima,Green,141,771060,new,26712.57
+1476,Emily Miller,53,Non-binary,Leaf,Purple,226,693777,very good,30848.64
+1477,Alex Smith,25,Male,Juke,Orange,44,395733,new,41610.91
+1478,John Davis,40,Female,Leaf,Yellow,372,542435,very good,11846.52
+1479,Emily Johnson,37,Genderfluid,Pathfinder,Blue,269,837952,bad,38987.7
+1480,Jane Taylor,63,Genderfluid,Gloria,Orange,254,54669,new,22343.89
+1481,Emily Jones,33,Polygender,Gloria,Purple,2,930845,very bad,16255.57
+1482,David Jones,64,Genderfluid,Juke,Gray,355,450250,old,22195.63
+1483,Emily Smith,41,Polygender,Maxima,Orange,189,221824,old,36335.57
+1484,Chris Wilson,33,Genderfluid,Maxima,White,285,366543,old,7031.67
+1485,Emily Smith,20,Non-binary,Quest,Purple,225,644126,new,16263.47
+1486,Katie Miller,30,Male,March / Micra,Red,248,414060,very good,14814.27
+1487,Katie Wilson,69,Non-binary,Leaf,Red,16,398653,very bad,36294.53
+1488,Mike Taylor,69,Non-binary,Gloria,Orange,10,77109,old,6023.95
+1489,Mike Brown,31,Non-binary,Avenir,Black,325,470303,bad,43267.19
+1490,Emily Taylor,48,Non-binary,Avenir,Gray,96,41675,very good,41163.95
+1491,Jane Davis,23,Female,Rnessa,Yellow,221,673867,old,26371.18
+1492,Jane Davis,32,Non-binary,Gloria,Silver,296,725041,very good,21923.7
+1493,Laura Moore,32,Female,Quest,Purple,250,355738,very bad,19442.21
+1494,John Moore,20,Polygender,March / Micra,Blue,236,197884,old,14151.6
+1495,Alex Miller,65,Genderfluid,Rnessa,Red,174,390153,bad,40305.11
+1496,Alex Taylor,19,Genderfluid,Gloria,Gray,16,143157,bad,25766.83
+1497,Alex Taylor,45,Male,Avenir,Red,270,262630,very good,39392.61
+1498,Katie Davis,53,Genderfluid,Juke,Yellow,248,432034,new,15333.74
+1499,,,,,,,,,
+1500,Katie Taylor,59,Genderfluid,Juke,Orange,186,62885,old,38662.52
+1501,David Wilson,45,Polygender,Altima,Silver,143,604507,very good,31098.43
+1502,Alex Taylor,20,Polygender,Juke,Silver,343,177770,new,26756.97
+1503,Sophie Brown,67,Female,Leaf,Silver,41,5115,bad,48041.74
+1504,Mike Brown,46,Male,Juke,Yellow,100,640887,new,40836.08
+1505,,,,,,,,,
+1506,John Johnson,63,Polygender,Maxima,Red,76,695207,bad,40180.41
+1507,,,,,,,,,
+1508,Katie Johnson,25,Female,Maxima,Black,80,196982,old,7688.72
+1509,David Williams,66,Polygender,March / Micra,White,84,773023,bad,23416.75
+1510,Mike Moore,23,Polygender,Gloria,Gray,190,696764,old,45768.87
+1511,Sophie Johnson,21,Polygender,Rnessa,Black,389,491167,bad,35534.26
+1512,Jane Brown,55,Female,Quest,Gray,229,334830,old,7562.87
+1513,Sophie Taylor,49,Non-binary,Altima,Green,188,841713,very good,11023.4
+1514,Mike Smith,48,Polygender,Avenir,Blue,353,569403,old,7622.28
+1515,David Williams,42,Polygender,Leaf,Orange,272,938668,very good,38068.72
+1516,Laura Wilson,37,Polygender,March / Micra,Gray,259,501023,old,13566.98
+1517,Emily Wilson,25,Genderfluid,Rnessa,Silver,135,325383,very good,45490.1
+1518,David Jones,42,Genderfluid,Maxima,Yellow,211,660480,new,29402.61
+1519,John Miller,63,Male,Avenir,White,271,461187,very bad,9724.6
+1520,Jane Johnson,44,Genderfluid,Juke,Yellow,72,435452,very bad,21416.86
+1521,Laura Williams,31,Polygender,Gloria,Red,151,258056,very good,13076.19
+1522,David Brown,30,Genderfluid,Juke,Silver,253,289339,very bad,46646.41
+1523,Mike Jones,63,Male,Gloria,Orange,98,740784,very good,14177.21
+1524,Emily Wilson,41,Polygender,Gloria,Purple,242,365585,bad,33297.38
+1525,Alex Moore,21,Male,Leaf,White,106,105180,new,8144.88
+1526,Chris Johnson,42,Male,Gloria,White,395,284176,very good,11097.78
+1527,Sophie Miller,26,Non-binary,Rnessa,Blue,93,150193,old,19463.69
+1528,Laura Brown,68,Non-binary,Avenir,Green,134,829450,old,13625.88
+1529,Sophie Jones,27,Non-binary,Gloria,Red,9,57998,new,43776.23
+1530,Mike Johnson,57,Male,Avenir,Black,224,562085,bad,6997.18
+1531,Alex Moore,29,Polygender,Leaf,Blue,351,899769,very good,12531.64
+1532,Chris Moore,28,Polygender,Rnessa,Gray,157,854402,old,7996.6
+1533,Laura Miller,62,Non-binary,Maxima,White,315,985482,new,23572.06
+1534,John Brown,53,Non-binary,Maxima,Gray,112,98777,very good,16650.03
+1535,Chris Johnson,33,Genderfluid,Leaf,Purple,188,640768,old,8846.74
+1536,Laura Taylor,56,Non-binary,Quest,Orange,185,141246,old,12378.17
+1537,Sophie Williams,44,Female,Juke,Green,16,425232,very bad,41562.39
+1538,David Miller,48,Female,Rnessa,Yellow,88,350028,new,33400.22
+1539,Alex Miller,60,Male,March / Micra,Purple,392,900474,new,22725
+1540,David Taylor,30,Non-binary,Pathfinder,Orange,179,464136,old,24879.73
+1541,,,,,,,,,
+1542,Alex Miller,56,Genderfluid,March / Micra,Gray,90,136097,very bad,31193.6
+1543,John Smith,36,Male,Leaf,Green,131,821703,bad,23836.96
+1544,,,,,,,,,
+1545,Mike Moore,29,Non-binary,Juke,Purple,325,906127,old,37721.84
+1546,John Brown,58,Male,Avenir,Purple,208,715900,new,24725.22
+1547,Jane Miller,23,Female,Leaf,Black,63,480609,new,37651.21
+1548,Alex Wilson,67,Genderfluid,March / Micra,Purple,251,408288,very good,49358.43
+1549,John Wilson,22,Male,Quest,Orange,252,465092,very bad,11406.95
+1550,Jane Miller,45,Polygender,Pathfinder,Silver,66,977002,very good,14301.21
+1551,Mike Miller,24,Male,Juke,Silver,249,341870,very good,9853.55
+1552,Jane Smith,52,Male,Leaf,Red,234,529090,very bad,36561.93
+1553,John Miller,42,Female,Maxima,Silver,245,781349,very good,8305.41
+1554,Sophie Smith,18,Genderfluid,Quest,Black,287,992747,new,36791.47
+1555,Emily Smith,23,Non-binary,Altima,White,115,958894,old,21411.65
+1556,Emily Miller,39,Male,Quest,Gray,5,384583,new,41230.47
+1557,Laura Wilson,50,Male,Leaf,Green,363,666990,bad,42256.16
+1558,Chris Williams,33,Non-binary,Juke,Silver,14,353109,new,32223.72
+1559,Jane Williams,36,Female,Rnessa,Silver,11,738971,very good,45195.26
+1560,,,,,,,,,
+1561,Katie Wilson,58,Female,Gloria,Blue,394,926150,very good,31672.01
+1562,Katie Brown,24,Non-binary,Leaf,Gray,58,196654,very good,5930.12
+1563,,,,,,,,,
+1564,Katie Williams,24,Non-binary,Quest,Silver,44,914585,very good,13926.18
+1565,Laura Williams,27,Non-binary,March / Micra,Black,180,291551,new,24496.86
+1566,Katie Brown,26,Genderfluid,Leaf,Black,27,789187,new,13348.27
+1567,Laura Taylor,18,Polygender,Juke,Yellow,159,478894,old,40917.72
+1568,David Wilson,20,Non-binary,Leaf,Yellow,393,462626,new,11721.66
+1569,Mike Williams,69,Female,Altima,Blue,311,420409,very good,40979.86
+1570,Emily Johnson,25,Male,Avenir,Red,200,796179,very good,20148.41
+1571,,,,,,,,,
+1572,David Smith,28,Non-binary,Maxima,Blue,188,470912,old,13741.65
+1573,,,,,,,,,
+1574,John Williams,25,Male,Pathfinder,Red,339,258567,bad,21865.41
+1575,,,,,,,,,
+1576,Jane Jones,69,Polygender,Avenir,Silver,205,986580,old,36560.83
+1577,Laura Moore,38,Male,Leaf,White,170,532599,old,9756.73
+1578,Mike Smith,57,Female,Pathfinder,Yellow,142,279773,very bad,39547.14
+1579,Mike Moore,51,Genderfluid,Altima,Red,108,429847,very good,16486.41
+1580,Emily Taylor,62,Polygender,March / Micra,Black,100,170711,very bad,36764.93
+1581,John Johnson,33,Female,March / Micra,Yellow,73,179737,very good,40094.8
+1582,Emily Moore,63,Genderfluid,Juke,Silver,359,289347,very good,33287.79
+1583,Sophie Miller,19,Polygender,Pathfinder,Orange,93,607038,old,11832.15
+1584,Mike Jones,39,Polygender,Rnessa,Blue,256,530924,new,43599.51
+1585,Chris Taylor,32,Polygender,Pathfinder,Red,203,838195,very bad,9513.87
+1586,Alex Johnson,18,Male,Maxima,Black,6,604749,old,20307.25
+1587,Jane Taylor,31,Non-binary,Juke,Red,347,961113,very bad,43709.52
+1588,,,,,,,,,
+1589,John Smith,33,Polygender,Maxima,Black,107,575931,new,35992.62
+1590,David Smith,42,Female,Rnessa,White,353,354102,old,18411.56
+1591,Sophie Brown,31,Polygender,Avenir,Blue,223,737028,bad,42190.71
+1592,Sophie Brown,63,Polygender,Maxima,Yellow,345,215961,very bad,13332.69
+1593,John Taylor,23,Genderfluid,Rnessa,Purple,306,805688,very bad,7493.1
+1594,Chris Brown,36,Polygender,Pathfinder,Gray,131,788563,new,40430.4
+1595,Chris Miller,30,Polygender,Gloria,Blue,357,844856,very good,46007.43
+1596,Chris Davis,31,Polygender,March / Micra,Silver,397,878062,new,11671.21
+1597,Emily Taylor,54,Polygender,Juke,Yellow,319,957600,old,45465.61
+1598,Mike Williams,69,Female,March / Micra,Purple,184,629619,very good,42123.29
+1599,John Miller,39,Non-binary,Gloria,Black,310,879601,new,39812.42
+1600,Alex Taylor,55,Polygender,Maxima,Purple,231,185346,new,37258.17
+1601,Sophie Moore,24,Genderfluid,Gloria,Blue,193,522897,very bad,15112.12
+1602,Laura Smith,40,Polygender,Gloria,White,360,173010,new,12763.42
+1603,David Taylor,34,Non-binary,Quest,Yellow,357,47339,very bad,6274.16
+1604,David Williams,37,Non-binary,Juke,Gray,295,174748,bad,47958.01
+1605,Mike Wilson,60,Non-binary,Avenir,Blue,83,859849,very bad,11054.63
+1606,Alex Wilson,66,Female,March / Micra,White,351,447056,bad,27573.47
+1607,Jane Moore,69,Male,Rnessa,Gray,169,61845,new,5839.78
+1608,Laura Miller,52,Female,March / Micra,Black,150,229920,very good,26533.07
+1609,Emily Moore,59,Non-binary,Altima,Gray,137,631732,very good,38680.88
+1610,Chris Davis,20,Genderfluid,Quest,Gray,346,477770,new,10085.92
+1611,Sophie Johnson,49,Non-binary,Avenir,Orange,128,966181,bad,12292.14
+1612,,,,,,,,,
+1613,David Smith,40,Male,Avenir,Orange,117,810286,bad,48502.49
+1614,Chris Williams,29,Female,Gloria,Blue,221,482605,bad,14391.41
+1615,Mike Smith,51,Genderfluid,Avenir,Purple,218,688840,new,45931.31
+1616,,,,,,,,,
+1617,Chris Jones,57,Polygender,Pathfinder,Green,154,856407,old,22283.8
+1618,Alex Johnson,54,Female,Maxima,Blue,103,965006,very bad,29698.34
+1619,Emily Williams,31,Non-binary,Avenir,Black,25,377144,very bad,35989.53
+1620,John Miller,36,Non-binary,Quest,Black,31,26149,very good,33592.61
+1621,John Davis,67,Genderfluid,Juke,Gray,75,956548,new,37811.58
+1622,Laura Jones,63,Non-binary,Maxima,Orange,162,386651,new,19786.24
+1623,John Smith,44,Non-binary,Juke,Blue,16,409754,bad,32284.01
+1624,David Wilson,19,Male,Pathfinder,Green,335,834621,bad,23984.39
+1625,Alex Moore,35,Polygender,Leaf,Green,1,961248,old,33367.17
+1626,,,,,,,,,
+1627,,,,,,,,,
+1628,Jane Taylor,60,Genderfluid,March / Micra,Red,166,392605,very bad,5739.67
+1629,,,,,,,,,
+1630,Chris Smith,50,Female,Leaf,Black,42,199712,bad,40079.94
+1631,Katie Jones,54,Genderfluid,Leaf,Red,231,614946,bad,11083.8
+1632,Jane Smith,28,Genderfluid,Maxima,White,339,419758,new,6001.81
+1633,Laura Miller,35,Polygender,Maxima,Blue,112,329537,old,39616.98
+1634,Mike Smith,52,Non-binary,Rnessa,Green,371,605216,very bad,9281.9
+1635,Alex Brown,52,Genderfluid,Leaf,Yellow,399,957426,very bad,35124.3
+1636,Katie Williams,40,Polygender,Juke,Yellow,236,444758,very good,33817.41
+1637,Jane Brown,49,Genderfluid,Pathfinder,Blue,255,755455,very good,39054.17
+1638,Alex Wilson,56,Polygender,Altima,Black,270,779775,old,12289.96
+1639,Jane Taylor,52,Non-binary,March / Micra,Gray,74,494843,old,31547.21
+1640,David Brown,47,Polygender,Gloria,Red,245,95275,new,28413.08
+1641,Alex Miller,52,Male,Altima,Yellow,133,828781,very good,6739.32
+1642,,,,,,,,,
+1643,Chris Jones,51,Male,Quest,Green,361,647695,very good,49265.72
+1644,Sophie Brown,46,Genderfluid,March / Micra,Red,276,569623,bad,15265.61
+1645,Alex Miller,63,Non-binary,Gloria,Yellow,329,703895,old,46821.4
+1646,Jane Johnson,53,Polygender,Quest,White,238,394179,bad,49533.65
+1647,Laura Moore,59,Non-binary,Quest,Gray,29,433535,bad,48872.16
+1648,Mike Taylor,46,Female,Quest,Green,50,274659,old,16126.95
+1649,John Johnson,63,Female,Gloria,Silver,238,473287,old,48331.78
+1650,Mike Wilson,67,Polygender,Maxima,White,34,334765,old,16605.6
+1651,Sophie Jones,63,Male,Pathfinder,Gray,40,336640,old,49363.33
+1652,Sophie Wilson,18,Polygender,Quest,Purple,134,95722,very bad,8835.37
+1653,John Jones,41,Genderfluid,Maxima,Blue,126,740235,very bad,49564.69
+1654,John Jones,36,Genderfluid,Maxima,Gray,57,147995,bad,14472.7
+1655,Emily Jones,64,Male,Pathfinder,Yellow,291,716320,very bad,10207.24
+1656,Emily Brown,27,Non-binary,Leaf,Gray,278,587242,bad,18063.84
+1657,Chris Brown,67,Non-binary,Gloria,Silver,285,990441,very bad,13891.76
+1658,John Brown,41,Polygender,Avenir,Orange,174,458348,very good,44216.6
+1659,Katie Johnson,26,Male,Leaf,Blue,86,494501,very good,49581.29
+1660,John Johnson,57,Genderfluid,Gloria,Black,202,114984,old,26979.09
+1661,David Smith,30,Male,Pathfinder,White,350,468028,very good,17698.89
+1662,Chris Taylor,47,Polygender,Pathfinder,Purple,290,693056,new,10136.11
+1663,David Wilson,61,Male,Quest,Blue,80,725132,very good,13628.92
+1664,Laura Davis,52,Female,Maxima,Black,238,211563,new,35172.17
+1665,David Jones,47,Polygender,Pathfinder,Black,46,101514,old,42952.53
+1666,John Taylor,21,Male,Juke,Yellow,297,210802,new,7140.89
+1667,Sophie Moore,22,Polygender,Quest,Purple,146,247555,bad,48213.79
+1668,Alex Miller,32,Male,Rnessa,Orange,391,923455,new,31800.41
+1669,,,,,,,,,
+1670,Jane Taylor,61,Polygender,Avenir,White,99,530448,bad,24972.07
+1671,,,,,,,,,
+1672,Alex Johnson,61,Male,Maxima,White,241,793127,old,46352.46
+1673,Sophie Williams,58,Female,Rnessa,White,162,164236,very good,32317.63
+1674,Emily Taylor,37,Genderfluid,Pathfinder,Green,115,286073,very bad,12882.44
+1675,Sophie Davis,27,Genderfluid,Gloria,Gray,66,902300,new,18964.77
+1676,Katie Jones,69,Female,Juke,Blue,276,702162,very bad,48887.43
+1677,David Williams,46,Polygender,Juke,Purple,219,279797,new,9318.33
+1678,Emily Brown,65,Female,Avenir,Purple,143,680608,new,23089.11
+1679,Chris Taylor,47,Genderfluid,Leaf,Orange,51,934746,very good,33101.58
+1680,Katie Williams,44,Male,Rnessa,White,153,615569,old,26349.12
+1681,Jane Wilson,18,Female,Altima,Blue,263,904881,bad,33262.32
+1682,Chris Williams,23,Genderfluid,Avenir,Black,355,428586,new,31602.96
+1683,,,,,,,,,
+1684,Alex Wilson,49,Genderfluid,Leaf,Blue,233,636166,old,28186.17
+1685,Emily Jones,19,Polygender,Avenir,Green,33,943372,very good,26811.23
+1686,Mike Wilson,31,Female,Juke,Orange,262,331620,old,38420.78
+1687,Sophie Johnson,36,Non-binary,Altima,Purple,36,604287,old,8615.06
+1688,Laura Smith,27,Polygender,Gloria,Red,349,176821,very good,20479.03
+1689,Alex Taylor,39,Polygender,Juke,Black,97,899007,very bad,10170.48
+1690,Jane Johnson,69,Genderfluid,Altima,Blue,390,426421,old,10337.66
+1691,Emily Miller,40,Female,Leaf,Yellow,316,148066,bad,10871.74
+1692,,,,,,,,,
+1693,Katie Taylor,34,Genderfluid,Juke,Red,170,293482,very good,32320.68
+1694,Katie Moore,63,Male,Quest,Purple,186,338680,very good,37162.51
+1695,David Brown,45,Genderfluid,Juke,Red,304,349787,old,46118.53
+1696,Emily Miller,51,Male,Avenir,Silver,148,352807,very good,37187.55
+1697,,,,,,,,,
+1698,Alex Wilson,48,Non-binary,Gloria,Black,316,75956,very bad,12624.79
+1699,Mike Williams,55,Genderfluid,Gloria,Gray,246,484237,old,39551.3
+1700,Mike Moore,69,Female,Gloria,Red,291,678687,very bad,41205.28
+1701,Emily Wilson,19,Non-binary,Maxima,Purple,72,368095,old,31309.41
+1702,Katie Moore,23,Non-binary,Rnessa,White,284,747269,new,35425.07
+1703,Mike Wilson,21,Male,Juke,Blue,16,347053,very good,49905.51
+1704,John Brown,29,Polygender,Pathfinder,Yellow,171,593770,new,14061.44
+1705,David Jones,56,Male,Maxima,Green,261,883805,new,23645.12
+1706,Mike Miller,23,Genderfluid,March / Micra,Blue,129,186221,old,47997.75
+1707,Jane Smith,60,Female,Juke,Silver,227,179832,new,48028.51
+1708,Alex Miller,48,Non-binary,Leaf,Yellow,233,187841,very bad,17712.46
+1709,Katie Jones,51,Female,Quest,Red,316,765638,old,21873.65
+1710,Jane Johnson,46,Male,Altima,Red,145,874283,bad,49853.88
+1711,Laura Williams,20,Male,March / Micra,Purple,173,219733,very good,9261.9
+1712,Mike Jones,26,Genderfluid,Gloria,Silver,172,549991,bad,48573.36
+1713,Alex Moore,42,Genderfluid,Juke,Blue,322,527952,new,14748.06
+1714,Jane Wilson,47,Non-binary,Rnessa,Black,214,920567,new,36706.37
+1715,Laura Johnson,32,Non-binary,Maxima,Black,350,564034,very good,45430.43
+1716,Alex Miller,26,Male,Altima,Black,371,545682,new,43824.59
+1717,,,,,,,,,
+1718,Emily Johnson,22,Non-binary,Altima,Silver,64,880989,bad,9413.1
+1719,Jane Williams,63,Male,Altima,White,360,405890,very good,15908.47
+1720,Chris Jones,19,Polygender,Altima,Silver,2,300927,very good,20590.82
+1721,Laura Davis,18,Genderfluid,Leaf,Black,82,902804,very bad,47496.89
+1722,Mike Miller,24,Male,Leaf,Red,257,936273,old,14781.28
+1723,Jane Brown,28,Female,Pathfinder,Silver,282,143902,very bad,16799.7
+1724,Chris Moore,23,Genderfluid,Maxima,Black,215,931992,very good,41398.34
+1725,Mike Brown,56,Male,Juke,Gray,150,762058,bad,44326.06
+1726,David Johnson,29,Female,Leaf,Gray,171,310424,bad,36050.76
+1727,Chris Moore,40,Female,Rnessa,Silver,158,362270,new,7145.45
+1728,Katie Smith,45,Non-binary,Rnessa,Blue,179,831984,very good,29098.91
+1729,Jane Davis,56,Non-binary,Rnessa,White,151,694815,old,14843.33
+1730,Emily Davis,44,Male,Quest,Yellow,281,72632,new,16796.29
+1731,Mike Brown,44,Non-binary,Pathfinder,Orange,215,770198,very bad,42570.39
+1732,Mike Johnson,44,Male,Leaf,Red,142,207427,new,29346.43
+1733,Sophie Jones,35,Non-binary,Altima,White,324,513952,new,9600.77
+1734,Chris Taylor,50,Female,Altima,Silver,91,305170,new,34244.87
+1735,Mike Taylor,44,Non-binary,March / Micra,Blue,246,651295,bad,47028.38
+1736,David Miller,41,Male,Leaf,Purple,352,858353,bad,47792.22
+1737,Katie Wilson,44,Genderfluid,Pathfinder,Black,208,605648,very good,27194.5
+1738,Alex Brown,39,Genderfluid,Avenir,Purple,375,204936,new,27300.6
+1739,Katie Wilson,53,Non-binary,Altima,Blue,216,451549,old,25376.39
+1740,Chris Wilson,45,Male,Maxima,Green,262,892435,new,7804.88
+1741,Mike Taylor,58,Non-binary,Leaf,Yellow,204,523740,bad,44819.62
+1742,Jane Williams,40,Male,Altima,Black,355,391827,very good,13097.23
+1743,David Moore,34,Female,Maxima,Green,31,42480,very bad,5511.09
+1744,,,,,,,,,
+1745,David Smith,48,Polygender,Leaf,White,50,800384,bad,28228.48
+1746,David Johnson,22,Polygender,Maxima,Black,398,978897,new,6015.63
+1747,Jane Wilson,40,Polygender,Rnessa,Blue,195,382148,very bad,48372.82
+1748,Mike Brown,42,Polygender,Altima,Black,14,801231,new,18083.46
+1749,David Johnson,48,Female,Altima,Blue,386,32861,old,8469.5
+1750,John Johnson,58,Female,Avenir,Purple,191,126008,very bad,17254.37
+1751,Katie Johnson,18,Polygender,Avenir,Yellow,143,148519,old,32560.04
+1752,Emily Williams,35,Genderfluid,Altima,Yellow,144,644388,old,23518.38
+1753,Alex Wilson,54,Polygender,Juke,Blue,257,262144,old,13497.47
+1754,,,,,,,,,
+1755,Jane Johnson,37,Female,Altima,Silver,20,918276,new,25664.46
+1756,Laura Jones,62,Male,Gloria,Gray,258,276094,new,33230.63
+1757,John Williams,24,Polygender,Rnessa,Gray,39,920021,bad,42774.01
+1758,Katie Brown,29,Genderfluid,March / Micra,Red,295,980543,old,11279.11
+1759,Alex Miller,40,Male,Juke,Orange,380,984205,new,30657.37
+1760,Jane Jones,40,Non-binary,March / Micra,Gray,321,658147,new,31777.84
+1761,Katie Williams,23,Polygender,Quest,Orange,23,875802,old,38078.2
+1762,Laura Wilson,65,Female,Juke,Silver,105,558908,very bad,9641.55
+1763,Jane Jones,67,Male,Gloria,Black,250,816878,bad,36554.7
+1764,Sophie Johnson,23,Genderfluid,Rnessa,Green,386,738559,bad,24003.19
+1765,Laura Davis,32,Male,Juke,White,318,436331,very good,36606.07
+1766,John Davis,65,Genderfluid,Rnessa,Orange,105,875535,bad,25013.27
+1767,Alex Taylor,51,Polygender,Pathfinder,Yellow,161,170312,old,11713.87
+1768,Katie Smith,36,Male,Maxima,Orange,95,686138,very bad,14668.25
+1769,Alex Taylor,55,Polygender,Maxima,Black,272,299776,bad,7592.97
+1770,Laura Jones,68,Female,March / Micra,Red,75,381964,old,20040.82
+1771,Alex Jones,45,Female,Quest,Orange,91,22917,very bad,29070.66
+1772,Chris Moore,35,Male,Maxima,Orange,195,272860,old,27107.27
+1773,Jane Jones,58,Non-binary,Altima,White,14,6795,very bad,32411.82
+1774,Katie Smith,44,Non-binary,Avenir,Orange,197,167693,very bad,41315.79
+1775,Mike Jones,34,Female,Rnessa,Silver,148,86082,very bad,48698.52
+1776,Mike Miller,32,Polygender,Pathfinder,Yellow,28,847327,very bad,21592.42
+1777,Chris Davis,59,Male,Leaf,Orange,315,927407,very good,46671.29
+1778,David Miller,58,Female,Leaf,Green,239,89664,new,22635.2
+1779,Katie Johnson,42,Non-binary,Avenir,Green,100,653890,new,35771.81
+1780,John Taylor,51,Genderfluid,Rnessa,Orange,272,933522,old,6770.64
+1781,Sophie Brown,27,Non-binary,Pathfinder,Silver,370,866999,new,36035.73
+1782,Emily Jones,22,Non-binary,Avenir,Purple,279,878266,very bad,25687.8
+1783,Alex Wilson,54,Male,Altima,Gray,210,61504,very good,8198.43
+1784,Chris Jones,37,Non-binary,March / Micra,White,92,754562,very good,29392.82
+1785,Katie Taylor,56,Non-binary,Maxima,Gray,38,888509,new,7946.26
+1786,Mike Davis,65,Female,Maxima,Yellow,248,21546,very good,42451.31
+1787,Emily Williams,61,Female,Juke,Purple,21,812456,new,19999.89
+1788,Alex Taylor,20,Polygender,Maxima,Silver,68,410485,new,19993.69
+1789,David Wilson,38,Non-binary,Gloria,Red,28,58754,new,19461.27
+1790,Sophie Davis,67,Non-binary,Juke,Black,110,492478,old,20329.97
+1791,Sophie Jones,57,Non-binary,Pathfinder,Purple,46,815948,very good,10897.43
+1792,Emily Wilson,40,Non-binary,Pathfinder,White,246,442523,old,25615.02
+1793,Emily Williams,36,Non-binary,Avenir,Blue,275,550471,very good,13896.42
+1794,Chris Johnson,47,Genderfluid,March / Micra,Silver,105,552034,old,43427.99
+1795,Emily Moore,34,Female,Maxima,Orange,42,117050,very bad,25804.75
+1796,Chris Taylor,20,Polygender,Leaf,Blue,352,71213,old,7844.96
+1797,Chris Miller,56,Male,Pathfinder,White,325,491996,new,45634.72
+1798,Alex Johnson,22,Male,Leaf,Black,21,688582,very bad,44176.57
+1799,John Davis,60,Non-binary,Leaf,Black,222,648844,bad,6168.65
+1800,Jane Williams,66,Non-binary,Maxima,White,136,202968,very bad,9008.31
+1801,Emily Williams,51,Genderfluid,Pathfinder,Green,167,104338,old,5578.04
+1802,Sophie Williams,57,Genderfluid,Rnessa,Gray,193,558649,old,11952.95
+1803,David Davis,28,Male,Gloria,Orange,96,804344,old,12842.17
+1804,Jane Jones,36,Male,Avenir,Red,81,58076,bad,21498.88
+1805,Chris Wilson,58,Non-binary,Pathfinder,Orange,80,558401,bad,13559.37
+1806,John Wilson,53,Non-binary,Avenir,White,303,129127,very bad,46257.65
+1807,Emily Williams,44,Female,Altima,Gray,100,959844,bad,49367.51
+1808,David Smith,59,Polygender,Juke,Black,117,150607,new,43999.06
+1809,,,,,,,,,
+1810,Sophie Wilson,45,Genderfluid,March / Micra,Green,135,770204,new,21349.73
+1811,Sophie Wilson,36,Non-binary,March / Micra,White,334,861242,old,14513.39
+1812,David Smith,25,Non-binary,Maxima,Blue,114,831936,very bad,10406.75
+1813,,,,,,,,,
+1814,David Moore,53,Male,March / Micra,Red,205,569792,bad,9741.58
+1815,Alex Wilson,39,Polygender,Juke,Purple,49,161492,new,20946.28
+1816,,,,,,,,,
+1817,David Davis,40,Genderfluid,Maxima,Yellow,106,872930,bad,31457.36
+1818,David Wilson,62,Polygender,Leaf,Silver,90,209743,old,6459.56
+1819,Mike Wilson,31,Genderfluid,Pathfinder,Orange,326,660382,very bad,28914.57
+1820,Mike Taylor,45,Male,Gloria,Red,128,181710,new,37294.96
+1821,Emily Wilson,32,Male,Maxima,White,233,47566,new,32098.49
+1822,Sophie Davis,50,Polygender,Altima,Red,346,199572,old,47976.05
+1823,Laura Smith,65,Polygender,March / Micra,Yellow,71,889392,very bad,17857.46
+1824,,,,,,,,,
+1825,Jane Johnson,30,Genderfluid,Rnessa,Purple,282,567549,very bad,48313.38
+1826,,,,,,,,,
+1827,Katie Brown,24,Polygender,Rnessa,Yellow,389,562961,bad,9601.67
+1828,Mike Miller,51,Male,Maxima,Orange,365,685036,very bad,22291.35
+1829,John Wilson,24,Female,Juke,Purple,99,558274,bad,9925.38
+1830,Chris Miller,28,Non-binary,Gloria,Purple,257,39994,old,22722.08
+1831,John Brown,58,Genderfluid,Gloria,Red,295,556000,new,9779.37
+1832,Laura Moore,54,Male,Rnessa,Yellow,149,376778,old,31710.4
+1833,John Miller,32,Polygender,Pathfinder,Silver,363,724905,new,36982.08
+1834,John Jones,66,Non-binary,Pathfinder,Green,177,241943,very bad,48030.49
+1835,John Miller,53,Non-binary,Rnessa,Purple,146,472262,old,17183.51
+1836,Alex Taylor,49,Female,Juke,Blue,93,468892,very good,31804.11
+1837,Alex Johnson,32,Female,Rnessa,White,196,831756,very good,9584.56
+1838,Emily Johnson,18,Female,Pathfinder,Blue,261,814330,new,36712.25
+1839,Laura Davis,69,Genderfluid,Avenir,Green,13,557571,new,47346.4
+1840,John Brown,29,Male,Altima,Black,250,365001,very bad,9043.73
+1841,Alex Miller,55,Genderfluid,Quest,Gray,70,309618,new,43021.37
+1842,Alex Williams,42,Non-binary,Leaf,Black,292,238837,new,43544.02
+1843,Jane Davis,66,Polygender,Quest,Red,44,810112,bad,8366.93
+1844,Katie Moore,69,Female,March / Micra,Gray,122,506019,bad,41698.98
+1845,Chris Miller,45,Polygender,Quest,Yellow,390,435840,very good,35724.62
+1846,Sophie Smith,38,Female,Rnessa,Yellow,160,297347,very bad,13302.24
+1847,Sophie Wilson,42,Polygender,Quest,Black,250,117355,bad,40833.35
+1848,John Davis,49,Female,Gloria,Yellow,90,569342,very bad,24453.45
+1849,Chris Davis,61,Male,Avenir,Purple,202,507187,very bad,22687.1
+1850,Laura Davis,36,Polygender,Quest,Green,34,105575,bad,16936.4
+1851,Mike Jones,29,Female,Juke,Green,264,933971,new,11891.65
+1852,Jane Taylor,55,Male,Altima,Black,260,969895,old,40542.77
+1853,Jane Moore,34,Genderfluid,Gloria,Gray,252,98527,old,10357.98
+1854,Chris Taylor,36,Polygender,Altima,Red,145,20187,very good,33383.33
+1855,John Moore,25,Male,Avenir,Purple,361,511073,old,8213.47
+1856,Laura Wilson,47,Male,Altima,White,398,246661,very good,18219.5
+1857,Laura Brown,46,Male,Avenir,Blue,53,238418,very good,16361.41
+1858,Chris Moore,41,Genderfluid,Pathfinder,Green,269,464170,bad,25094.96
+1859,Alex Moore,42,Non-binary,Rnessa,Green,307,382162,new,12898.01
+1860,Alex Wilson,33,Polygender,Gloria,Black,71,154172,very good,49258.04
+1861,Emily Wilson,47,Female,Leaf,Yellow,176,862098,very good,25375.7
+1862,Sophie Johnson,36,Polygender,Gloria,Yellow,234,217816,very bad,25373.91
+1863,John Williams,51,Female,Pathfinder,Blue,392,206743,old,11618.63
+1864,Katie Miller,54,Male,Leaf,Black,121,280639,new,11601.14
+1865,Laura Davis,54,Polygender,Maxima,Red,318,302492,old,32069.5
+1866,Emily Smith,39,Polygender,Rnessa,Purple,3,553612,very bad,18427.13
+1867,Laura Taylor,20,Male,Maxima,Blue,223,368744,new,33824.09
+1868,Mike Moore,59,Non-binary,Maxima,Purple,241,569351,very good,7582.51
+1869,Katie Taylor,49,Female,Altima,Purple,321,655744,very good,49944.12
+1870,Chris Miller,38,Genderfluid,Quest,Silver,211,675516,new,23709.05
+1871,Alex Wilson,25,Male,Leaf,Black,182,20410,bad,10626.71
+1872,Chris Moore,57,Polygender,Pathfinder,Green,289,736672,old,47434.26
+1873,John Wilson,61,Male,Maxima,Green,362,227424,very bad,24458.7
+1874,Katie Williams,64,Male,Rnessa,Black,153,514947,very good,12152.81
+1875,Emily Brown,60,Polygender,Quest,Red,38,32101,bad,45857.14
+1876,Jane Davis,36,Genderfluid,Leaf,Orange,154,395286,new,28036.69
+1877,Sophie Moore,40,Genderfluid,Avenir,Silver,185,965965,old,43766.28
+1878,,,,,,,,,
+1879,Alex Wilson,27,Polygender,Gloria,Green,202,834692,new,12835.46
+1880,Sophie Davis,60,Polygender,Gloria,Gray,76,919364,old,38823.05
+1881,Jane Jones,42,Genderfluid,March / Micra,Orange,189,140255,old,29648.87
+1882,Laura Smith,35,Female,Gloria,Green,63,858167,new,16990.5
+1883,,,,,,,,,
+1884,Alex Williams,34,Genderfluid,March / Micra,Yellow,231,878978,bad,28583.46
+1885,Jane Smith,39,Female,Avenir,Black,347,181028,old,34151.7
+1886,Emily Davis,21,Non-binary,Rnessa,Orange,349,963488,new,26989.29
+1887,Jane Moore,69,Genderfluid,Avenir,Green,336,320047,very bad,47001.46
+1888,Laura Williams,25,Female,Gloria,Orange,372,697077,bad,36476.69
+1889,Alex Smith,60,Female,Avenir,Black,268,282454,old,8206.78
+1890,John Wilson,50,Non-binary,Juke,Black,187,329705,new,16320.73
+1891,Mike Brown,28,Genderfluid,Avenir,Red,137,448019,old,5208.41
+1892,David Brown,49,Genderfluid,Pathfinder,Purple,112,701396,old,49969.51
+1893,Sophie Wilson,35,Polygender,Juke,Black,314,679811,very good,38886.38
+1894,Alex Johnson,38,Non-binary,Quest,White,258,437329,old,21880.11
+1895,Sophie Wilson,53,Polygender,Leaf,Silver,129,237229,bad,35219.34
+1896,,,,,,,,,
+1897,Emily Moore,64,Polygender,Juke,Silver,345,268334,new,7792.82
+1898,John Jones,31,Non-binary,Pathfinder,Yellow,271,38042,new,14913.25
+1899,David Moore,34,Polygender,Avenir,Red,306,886388,new,14417.08
+1900,Jane Jones,32,Non-binary,Quest,Yellow,142,977643,very good,16941.68
+1901,David Brown,65,Female,Juke,Gray,17,214553,new,15389.44
+1902,,,,,,,,,
+1903,Sophie Moore,53,Polygender,Quest,Yellow,295,205422,old,24283.93
+1904,Alex Brown,44,Male,Juke,White,77,641704,very bad,31180.67
+1905,David Davis,60,Female,Gloria,White,384,951304,very bad,15887.03
+1906,Katie Williams,69,Non-binary,Rnessa,Purple,90,21188,new,22795.8
+1907,Emily Jones,18,Female,Rnessa,White,329,385793,bad,23528.99
+1908,John Taylor,52,Genderfluid,Gloria,Red,13,217333,old,42753.05
+1909,Laura Davis,63,Genderfluid,Altima,Silver,58,85902,old,23514.6
+1910,Sophie Miller,47,Male,Rnessa,Gray,300,664688,very good,31597.46
+1911,Laura Taylor,44,Genderfluid,Quest,Purple,343,165682,bad,9474.1
+1912,Laura Jones,44,Polygender,Avenir,Orange,162,977150,old,8402.61
+1913,,,,,,,,,
+1914,Mike Wilson,43,Genderfluid,Altima,Blue,288,650005,old,47214.02
+1915,,,,,,,,,
+1916,Mike Davis,25,Genderfluid,Pathfinder,Red,320,36408,bad,45248.04
+1917,Sophie Jones,62,Non-binary,Altima,Blue,35,362563,very bad,30644.5
+1918,David Miller,50,Non-binary,March / Micra,Blue,139,897346,very good,48569.32
+1919,Jane Davis,67,Non-binary,Altima,Red,323,559372,very good,34530.16
+1920,John Smith,30,Male,Avenir,Silver,245,364640,very bad,18614.33
+1921,Laura Jones,26,Female,Maxima,Silver,65,357410,old,7359.5
+1922,Katie Johnson,68,Polygender,Gloria,Blue,387,142714,old,19681.02
+1923,Jane Jones,46,Female,Quest,Silver,349,567444,new,21212.75
+1924,,,,,,,,,
+1925,Katie Johnson,62,Male,Pathfinder,Silver,284,718924,old,9708.28
+1926,Alex Brown,40,Genderfluid,Rnessa,Blue,40,37801,very good,14154.43
+1927,Mike Brown,37,Female,Gloria,Gray,262,269544,bad,15147.82
+1928,Emily Johnson,33,Male,Gloria,Orange,116,930845,very bad,14806.85
+1929,Jane Smith,29,Polygender,Gloria,Purple,39,937366,new,6453.65
+1930,Mike Jones,57,Female,Gloria,Purple,35,863579,very good,44968.69
+1931,Emily Wilson,69,Female,Maxima,Yellow,57,635447,new,38700.65
+1932,Katie Johnson,43,Female,Juke,Gray,51,121043,old,22016.99
+1933,Mike Miller,42,Polygender,Avenir,Gray,162,71936,very good,19480.16
+1934,,,,,,,,,
+1935,Sophie Taylor,45,Male,Altima,Green,196,280258,old,16833.75
+1936,David Williams,46,Polygender,March / Micra,Purple,286,482061,bad,8093.44
+1937,John Brown,46,Polygender,Leaf,Silver,311,614759,old,17273.21
+1938,Emily Davis,20,Female,Maxima,Yellow,87,509042,new,32500.83
+1939,Laura Davis,56,Non-binary,Pathfinder,Purple,149,160740,new,13818.7
+1940,John Brown,50,Male,Rnessa,Green,221,330920,old,35572.34
+1941,Sophie Miller,28,Female,Altima,Orange,258,757842,very bad,26318.09
+1942,Chris Davis,65,Male,Gloria,Orange,353,503663,bad,27767.46
+1943,Katie Miller,69,Non-binary,Maxima,Purple,34,106999,old,38324.82
+1944,Sophie Johnson,37,Genderfluid,Rnessa,Gray,106,643626,bad,27509.98
+1945,Emily Taylor,25,Non-binary,Rnessa,Green,191,209226,very good,12494.65
+1946,Mike Moore,55,Female,Leaf,Red,62,918894,very good,31029.87
+1947,Laura Williams,27,Polygender,Rnessa,Orange,377,717597,old,39843.81
+1948,Emily Davis,65,Male,Pathfinder,Orange,361,617799,old,8936.08
+1949,Alex Smith,44,Genderfluid,Rnessa,Blue,174,840742,bad,5079.44
+1950,Emily Wilson,51,Non-binary,Rnessa,Blue,345,647604,very good,37610.65
+1951,Emily Wilson,52,Non-binary,Rnessa,Blue,345,647604,very good,37611.65
+1952,Emily Wilson,53,Non-binary,Rnessa,Blue,345,647604,very good,37612.65
+1953,Sophie Moore,31,Non-binary,Quest,Blue,193,157391,bad,7079.28
+1954,Sophie Moore,32,Non-binary,Quest,Blue,193,157391,bad,7080.28
+1955,Sophie Brown,61,Female,Maxima,Black,312,251592,new,43437.08
+1956,Jane Williams,34,Non-binary,Juke,Red,187,933017,old,27611.09
+1957,Jane Williams,35,Non-binary,Juke,Red,187,933017,old,27612.09
+1958,Mike Miller,44,Polygender,Avenir,Yellow,63,889362,very bad,30967.24
+1959,Sophie Jones,54,Polygender,Juke,Silver,22,301584,old,6867.04
+1960,Sophie Jones,55,Polygender,Juke,Silver,22,301584,old,6868.04
+1961,Sophie Jones,56,Polygender,Juke,Silver,22,301584,old,6869.04
+1962,Alex Smith,64,Genderfluid,Gloria,Blue,192,850343,very good,42678.41
+1963,Sophie Taylor,46,Genderfluid,Avenir,Silver,32,779002,bad,30931.65
+1964,Sophie Wilson,49,Male,Quest,Purple,368,750224,very bad,14325.7
+1965,Jane Davis,31,Non-binary,Avenir,Silver,368,455997,new,12684.1
+1966,Jane Davis,32,Non-binary,Avenir,Silver,368,455997,new,12685.1
+1967,Jane Taylor,40,Genderfluid,Quest,Silver,322,184543,very bad,5234.66
+1968,Laura Brown,38,Female,Maxima,Orange,222,797915,bad,19190.66
+1969,Chris Williams,66,Female,Juke,Red,251,250437,very good,34337.64
+1970,Jane Miller,20,Genderfluid,Maxima,Yellow,384,437975,very bad,42776.97
+1971,John Davis,29,Male,Juke,Green,394,179387,old,44579.14
+1972,Katie Taylor,54,Non-binary,Avenir,White,33,873509,new,19196.81
+1973,Jane Jones,20,Genderfluid,Leaf,Red,216,13217,very bad,49910.34
+1974,John Miller,41,Male,Quest,Blue,137,789774,very good,13804.85
+1975,Jane Davis,23,Polygender,Juke,Orange,1,835267,old,41567.41
+1976,Emily Davis,52,Female,Juke,Orange,205,16488,bad,22286.46
+1977,Jane Taylor,26,Polygender,Rnessa,Orange,188,906195,very bad,10925.84
+1978,Sophie Taylor,31,Genderfluid,March / Micra,Orange,324,454306,very good,13719.63
+1979,Katie Taylor,62,Male,Juke,White,82,972185,bad,47776.89
+1980,Katie Taylor,63,Male,Juke,White,82,972185,bad,47777.89
+1981,Mike Johnson,35,Non-binary,Pathfinder,Gray,294,341988,bad,39209.69
+1982,John Miller,38,Male,Juke,Blue,86,117653,old,37496.48
+1983,Laura Wilson,19,Polygender,Leaf,Red,192,201107,new,17487.51
+1984,David Miller,30,Polygender,Rnessa,Gray,392,152799,old,35787.27
+1985,David Miller,31,Polygender,Rnessa,Gray,392,152799,old,35787.27
+1986,Chris Wilson,37,Genderfluid,Avenir,Green,365,207457,bad,39118.55
+1987,Mike Williams,48,Male,Quest,Orange,174,696799,new,38869.94
+1988,Chris Williams,48,Non-binary,Leaf,White,75,807973,new,40492.3
+1989,Jane Wilson,66,Male,Pathfinder,Black,46,13660,very bad,15521.71
+1990,John Johnson,57,Male,Quest,Black,344,492984,very bad,10766.64
+1991,Alex Taylor,66,Genderfluid,Gloria,Red,58,776783,very bad,31903.73
+1992,Katie Moore,33,Non-binary,March / Micra,Silver,119,514953,very bad,43819.96
+1993,Laura Wilson,25,Non-binary,Rnessa,Blue,49,550681,bad,42991.64
+1994,Emily Jones,26,Male,Quest,Black,310,151013,old,24024.14
+1995,Chris Taylor,18,Non-binary,Rnessa,Gray,89,104234,very bad,27449.09
+1996,Mike Wilson,63,Polygender,Juke,Yellow,339,715741,new,19710.18
+1997,Katie Wilson,45,Female,Maxima,Gray,81,786768,bad,47797.76
+1998,Jane Davis,27,Female,Leaf,Yellow,130,99170,very bad,35058.91
+1999,Katie Smith,68,Male,March / Micra,Green,215,640764,old,21176.71
+2000,Katie Smith,69,Male,March / Micra,Green,215,640764,old,21177.71
